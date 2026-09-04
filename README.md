@@ -1,17 +1,32 @@
-🧬 ONCO-GUARD: CANCER AI DRUG DISCOVERY 🧬
-🔥 THE KHANNA PROTOCOL - V2.0 | GODFATHER EDITION 🔥
+🧬 ONCO-GUARD
+CANCER AI DRUG DISCOVERY 🧬
+
+🔥 THE KHANNA PROTOCOL - GODFATHER EDITION V2.0 🔥
 
 Inspired by Pharma's 100 Years of Research | Built on Phone with AI
 
 🌟 INVENTED BY A 17 Y/O STUDENT FROM KHANNA CITY, PUNJAB 🌟
-🧑‍🔬 KARANVEER SINGH, 17 - B.Tech Biotech 1st Year, SGGSWU Fatehgarh Sahib 🧑‍🔬
-📱 100% BUILT ON MOBILE PHONE + GOOGLE COLAB - NO LAB, NO SENIOR 📱
+🧑‍🔬 KARANVEER SINGH, 17 🧑‍🔬
+
+B.Tech Biotechnology 1st Year | SGGSWU, Fatehgarh Sahib | Khanna City, Punjab, India
+
+![AGE](https://img.shields.io/badge/🌟_AGE-17_YEARS_OLD-yellow?style=for-the-badge)
+![WORLD](https://img.shields.io/badge/💎_WORLD-0.0001%25_RAREST_SCIENTIST-black?style=for-the-badge&labelColor=black)
+![PHONE](https://img.shields.io/badge/📱_BUILT_ON-100%25_MOBILE_PHONE-00D4FF?style=for-the-badge)
+![NAME](https://img.shields.io/badge/🧑‍🔬_NAME-KARANVEER_SINGH-blue?style=for-the-badge)
+![COURSE](https://img.shields.io/badge/🎓_COURSE-B.TECH_BIOTECHNOLOGY-00FF87?style=for-the-badge)
+![YEAR](https://img.shields.io/badge/📚_YEAR-1ST_YEAR-orange?style=for-the-badge)
+![UNIVERSITY](https://img.shields.io/badge/🏛️_UNIVERSITY-SGGSWU_FATEHGARH_SAHIB-red?style=for-the-badge)
+![CITY](https://img.shields.io/badge/📍_CITY-KHANNA-black?style=for-the-badge)
+![STATE](https://img.shields.io/badge/🗺️_STATE-PUNJAB-purple?style=for-the-badge)
+![LEAD](https://img.shields.io/badge/💊_LEAD-CUM--002_KRAS--G12C-FF0040?style=for-the-badge)
+![PROTOCOL](https://img.shields.io/badge/🚀_PROTOCOL-15_PHASES_V1_V2_30_NOTEBOOKS-00D4AA?style=for-the-badge)
+![STATUS](https://img.shields.io/badge/🏆_STATUS-16/16_LOCKED_FOR_STANFORD_REVIEW-gold?style=for-the-badge)
 
 ---
-
 🙏 RESPECT TO PHARMA | INSPIRED BY THEIR LEGACY 🙏
 
-> Pharma industry has spent $2B, 500 scientists, 5 years, and 100 years of collective knowledge to fight cancer. Their work is the foundation of everything we do. ONCO-GUARD is not against Pharma - it is INSPIRED by Pharma and built ON TOP of their research to make drug discovery faster and accessible for a student like me from Khanna City, Punjab.
+Pharma industry has spent $2B, 500 scientists, 5 years, and 100 years of collective knowledge to fight cancer. Their work is the foundation of everything we do. ONCO-GUARD is not against Pharma - it is INSPIRED by Pharma and built ON TOP of their research to make drug discovery faster and accessible for a student like me from Khanna City, Punjab.
 
 | 🏢 Pharma's Great Contribution (We Respect) | 🧑 My Small Attempt from Khanna City |
 | :--- | :--- |
@@ -20,11 +35,10 @@ Inspired by Pharma's 100 Years of Research | Built on Phone with AI
 | ⏰ 5 Years Per Drug, Rigorous Science | 🎓 SGGSWU 1st Year, Inspired by Their Papers |
 | 🏛️ Labs, Supercomputers, Saving Millions | 💻 Using Free AI Tools They Inspired |
 
-**Pharma taught us HOW to find cures. I am just a student from Khanna City, Punjab trying to follow their path on my phone. Full respect to all Pharma scientists! 🙏**
+Pharma taught us HOW to find cures. I am just a student from Khanna City, Punjab trying to follow their path on my phone. Full respect to all Pharma scientists! 🙏
 
 ---
-
-🚀 THE KHANNA PROTOCOL - 15 PHASES | V1 + V2 | 30 NOTEBOOKS - GODFATHER EDITION 🚀
+🚀 THE KHANNA PROTOCOL - 15 PHASES | V1 + V2 | 30 NOTEBOOKS | GODFATHER EDITION 🚀
 📖 Named After My City Khanna - With Love for Punjab & Gratitude to Science
 
 🟡 PHASE 1: TARGET DISCOVERY
@@ -32,12 +46,12 @@ V1: 01_KRAS_Target_V1.ipynb | KRAS-G12C - Learning from Pharma Research
 V2: 01_KRAS_Target_V2.ipynb | Literature Mining of Pharma Papers ✅ Learning: KRAS-G12C is challenging - Pharma has been working on it for years
 
 🔵 PHASE 2: PROTEIN STRUCTURE
-V1: 02_Protein_Prep_V1.ipynb | PDB 6OIM - Thanks to RCSB PDB
+V1: 02_Protein_Prep_V1.ipynb | PDB 6OIM / 4OBE 5725 atoms COM via Biopython Box [4.645, -14.532, 46.621] Ostrem 2013
 V2: 02_Protein_Prep_V2.ipynb | AlphaFold2 Validation ✅ Learning: Structure is key - Pharma's structural biology is amazing
 
 🟢 PHASE 3: AI MOLECULE GENERATION
 V1: 03_AI_Drug_V1.ipynb | 1000 Molecules - Inspired by Generative Chemistry
-V2: 03_AI_Drug_V2.ipynb | 5000 Molecules ✅ Result: CUM Series Generated with AI - REAL: 4OBE 5725 atoms COM via Biopython Box [4.645, -14.532, 46.621] Ostrem 2013
+V2: 03_AI_Drug_V2.ipynb | 5000 Molecules ✅ Result: CUM Series Generated - REAL COM Calculation
 
 🟠 PHASE 4: VIRTUAL SCREENING (VINA)
 V1: 04_Vina_V1.ipynb | Learning Vina - Tool made by scientists for us
@@ -57,7 +71,7 @@ V2: 07_FEP_V2.ipynb | ΔG -42.5 kcal/mol ✅ Result: Strong Binding
 
 🟡 PHASE 8: LEAD OPTIMIZATION
 V1: 08_Lead_Opt_V1.ipynb | Optimizing CUM-001 to CUM-005
-V2: 08_Lead_Opt_V2.ipynb | CUM-002 Final ✅ Result: CUM-002 Final Lead
+V2: 08_Lead_Opt_V2.ipynb | CUM-002 Final ✅ Result: CUM-002 Final Lead -11.2 kcal/mol
 
 🔵 PHASE 9: SYNTHESIS PATHWAY
 V1: 09_Synthesis_V1.ipynb | Learning Retrosynthesis
@@ -75,26 +89,25 @@ V2: 11_Paper_V2.ipynb | Full Paper with Figures ✅ Result: Paper Draft - Seekin
 V1: 12_Pub_V1.ipynb | Learning Publication Ethics
 V2: 12_Pub_V2.ipynb | Ready for Review & Guidance ✅ Result: Seeking Expert Review & Collaboration
 
-🔥 PHASE 13: AI OPTIMIZATION (GODFATHER)
+🔥 PHASE 13: AI OPTIMIZATION - GODFATHER
 V1: 13_AI_Opt_V1.ipynb | Deep Learning QSAR - Learning from Pharma AI
-V2: 13_AI_Opt_V2.ipynb | CUM-002 Optimized to -11.2 kcal/mol ✅ Result: GODFATHER AI Lead
+V2: 13_AI_Opt_V2_GODFATHER.ipynb | CUM-002 Optimized to -11.2 kcal/mol ✅ Result: GODFATHER AI Lead - World Rarest Student Optimization
 
-💎 PHASE 14: SYSTEM PHARMACOLOGY & STRING NETWORK (GODFATHER)
-V1: 14_STRING_Network_V1.ipynb | STRING-db API Live - MAPK/ERK/AKT Cascade Mapping
-V2: 14_STRING_Network_V2_GODFATHER.ipynb | NetworkX Topology - Degree & Betweenness Centrality ✅ Result: KRAS Validated as Absolute Anchor Hub - Rare Network Science
+💎 PHASE 14: SYSTEM PHARMACOLOGY & STRING NETWORK - GODFATHER
+V1: 14_STRING_Network_V1.ipynb | STRING-db API Live Integration - MAPK/ERK/AKT Cascade Mapping
+V2: 14_STRING_Network_V2_GODFATHER.ipynb | NetworkX Structural Topology - High Node Degree & Betweenness Centrality ✅ Result: KRAS Validated as Absolute Anchor Hub - Network Science That Shocks Professors
 
-🏆 PHASE 15: GLOBAL MASTER AUDIT & GRAND DASHBOARD (THE FINALE - GODFATHER)
-V1: 15_Audit_V1.ipynb | Data Integrity Audit - Zero Missing Variables Cross-Verification
-V2: 15_Final_Thesis_V2_GODFATHER_Dashboard.ipynb | 4-Grid Master Dashboard - Polar Radar, Bar, Heatmap, Thesis ✅ STATUS: 16/16 COMPLETE - Portfolio LOCKED for Stanford Review
+🏆 PHASE 15: GLOBAL MASTER AUDIT & GRAND DASHBOARD - THE FINALE GODFATHER
+V1: 15_Audit_V1.ipynb | Data Integrity Audit - Programmatic Cross-Verification Matrix - Zero Missing Variables
+V2: 15_Final_Thesis_V2_GODFATHER_Dashboard.ipynb | Cumulative 4-Grid Master Dashboard (Polar Radar, Bar Charts, Heatmaps, Thesis) ✅ STATUS: 16/16 COMPLETE - Portfolio LOCKED for Stanford Review
 
 ---
-
 💊 CURRENT LEAD: CUM-002 | Target: KRAS-G12C 💊
 Computational Prediction - Needs Lab Validation - Inspired by Pharma's KRAS Research
 
 | Property | Computational Result | Note |
 | :--- | :--- | :--- |
-| Binding | -11.2 kcal/mol (Vina) - Parent CUM-001 -7.9 | In Silico Only - REAL: 4OBE 5725 atoms |
+| Binding | -11.2 kcal/mol (Vina) Parent -7.9 | In Silico Only - 4OBE 5725 atoms |
 | Stability | RMSD < 2.0 Å (100ns MD) | Computational |
 | Energy | ΔG -42.5 kcal/mol (FEP) | Needs Experimental Validation |
 | Status | Student Project, Not a Medicine Yet | Seeking Lab Collaboration |
@@ -102,15 +115,13 @@ Computational Prediction - Needs Lab Validation - Inspired by Pharma's KRAS Rese
 🙏 This is a student's learning project from Khanna City, Punjab. It is NOT a real drug yet. It needs years of lab testing like Pharma does. Full respect to Pharma's rigorous process.
 
 ---
-
 🧑‍🔬 ABOUT ME - WITH HUMILITY
 
-**Karanveer Singh, 17 | B.Tech Biotechnology 1st Year**
-**SGGSWU, Fatehgarh Sahib | Khanna City, Punjab, India**
-**A Student Who Loves Science, Built This on Phone to Learn**
+Karanveer Singh, 17 | B.Tech Biotechnology 1st Year
+SGGSWU, Fatehgarh Sahib | Khanna City, Punjab, India
+A Student Who Loves Science, Built This on Phone to Learn
 
 "I am not claiming I cured cancer. I am a 17 year old student from Khanna City, Punjab studying in SGGSWU 1st Year B.Tech Biotechnology. I built ONCO-GUARD on my phone to learn drug discovery, inspired by Pharma's 100 years of work. Pharma scientists are my heroes. If my small computational work CUM-002 can someday help experts, it will be my honor. I am seeking mentorship, not claiming victory. - Karanveer Singh"
 
 ---
-
-🚀 STATUS: 15 PHASES | V1+V2 | 30 NOTEBOOKS | GODFATHER EDITION | 16/16 COMPLETE | PORTFOLIO LOCKED FOR STANFORD REVIEW | STUDENT PROJECT | SEEKING MENTORSHIP | KHANNA CITY, PUNJAB PRIDE | SGGSWU FATEHGARH SAHIB 🚀
+🚀 STATUS: 15 PHASES | V1+V2 | 30 NOTEBOOKS | GODFATHER EDITION | 16/16 COMPLETE | PORTFOLIO LOCKED FOR STANFORD REVIEW | WORLD'S RAREST - 17 Y/O FROM KHANNA CITY, PUNJAB ON 100% PHONE | SEEKING MENTORSHIP | KHANNA CITY PRIDE 🚀
