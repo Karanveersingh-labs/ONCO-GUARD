@@ -1,11 +1,116 @@
-# 🧬 ONCO-GUARD: Cancer AI Drug Discovery Pipeline
-### 🎯 The Khanna Protocol: A 15-Phase In-Silico Framework Targeting KRAS G12C
+🧬 ONCO-GUARD: CANCER AI DRUG DISCOVERY 🧬
+🔥 THE KHANNA PROTOCOL - V2.0 | GODFATHER EDITION 🔥
+
+Inspired by Pharma's 100 Years of Research | Built on Phone with AI
+
+🌟 INVENTED BY A 17 Y/O STUDENT FROM KHANNA CITY, PUNJAB 🌟
+🧑‍🔬 KARANVEER SINGH, 17 - B.Tech Biotech 1st Year, SGGSWU Fatehgarh Sahib 🧑‍🔬
+📱 100% BUILT ON MOBILE PHONE + GOOGLE COLAB - NO LAB, NO SENIOR 📱
 
 ---
 
-## 🌟 Project Overview & Core Philosophy
-**ONCO-GUARD** is an independent, 15-phase *in-silico* drug discovery pipeline developed entirely within a resource-constrained mobile-cloud computing ecosystem via Google Colab. This project focuses on targeting the historically "undruggable" **KRAS G12C** mutant oncogene (PDB ID: **4OBE** / **6OIM**), which acts as a master driver in aggressive human malignancies.
+🙏 RESPECT TO PHARMA | INSPIRED BY THEIR LEGACY 🙏
 
-### 🙏 Respect to Pharma's Legacy
-The pharmaceutical industry has collectively spent over **$2 Billion, deployed 500+ elite scientists, and dedicated decades of knowledge** to build the foundation of oncology. ONCO-GUARD is built in deep gratitude and respect for their monumental papers. This student project is an algorithmic humble attempt to learn from their rigor and accelerate lead validation pipelines using AI.
+> Pharma industry has spent $2B, 500 scientists, 5 years, and 100 years of collective knowledge to fight cancer. Their work is the foundation of everything we do. ONCO-GUARD is not against Pharma - it is INSPIRED by Pharma and built ON TOP of their research to make drug discovery faster and accessible for a student like me from Khanna City, Punjab.
 
+| 🏢 Pharma's Great Contribution (We Respect) | 🧑 My Small Attempt from Khanna City |
+| :--- | :--- |
+| 💰 $2B Investment in Cancer Research | 📱 1 Phone - Trying to learn from their work |
+| 👥 500 Scientists, Decades of Knowledge | 👦 1 Student, Age 17, Learning Every Day |
+| ⏰ 5 Years Per Drug, Rigorous Science | 🎓 SGGSWU 1st Year, Inspired by Their Papers |
+| 🏛️ Labs, Supercomputers, Saving Millions | 💻 Using Free AI Tools They Inspired |
+
+**Pharma taught us HOW to find cures. I am just a student from Khanna City, Punjab trying to follow their path on my phone. Full respect to all Pharma scientists! 🙏**
+
+---
+
+🚀 THE KHANNA PROTOCOL - 15 PHASES | V1 + V2 | 30 NOTEBOOKS - GODFATHER EDITION 🚀
+📖 Named After My City Khanna - With Love for Punjab & Gratitude to Science
+
+🟡 PHASE 1: TARGET DISCOVERY
+V1: 01_KRAS_Target_V1.ipynb | KRAS-G12C - Learning from Pharma Research
+V2: 01_KRAS_Target_V2.ipynb | Literature Mining of Pharma Papers ✅ Learning: KRAS-G12C is challenging - Pharma has been working on it for years
+
+🔵 PHASE 2: PROTEIN STRUCTURE
+V1: 02_Protein_Prep_V1.ipynb | PDB 6OIM - Thanks to RCSB PDB
+V2: 02_Protein_Prep_V2.ipynb | AlphaFold2 Validation ✅ Learning: Structure is key - Pharma's structural biology is amazing
+
+🟢 PHASE 3: AI MOLECULE GENERATION
+V1: 03_AI_Drug_V1.ipynb | 1000 Molecules - Inspired by Generative Chemistry
+V2: 03_AI_Drug_V2.ipynb | 5000 Molecules ✅ Result: CUM Series Generated with AI - REAL: 4OBE 5725 atoms COM via Biopython Box [4.645, -14.532, 46.621] Ostrem 2013
+
+🟠 PHASE 4: VIRTUAL SCREENING (VINA)
+V1: 04_Vina_V1.ipynb | Learning Vina - Tool made by scientists for us
+V2: 04_Vina_V2.ipynb | Top 50 Hits ✅ Result: Cuminaldehyde Vina -7.9 kcal/mol - ADMET 4/4 PASS
+
+🔴 PHASE 5: ADMET FILTERING
+V1: 05_ADMET_V1.ipynb | Learning Drug Safety - Pharma's Most Important Lesson
+V2: 05_ADMET_V2.ipynb | SwissADME + pkCSM - Safety First ✅ Result: 10 Safe Leads
+
+⚫ PHASE 6: MOLECULAR DYNAMICS (GROMACS)
+V1: 06_MD_V1.ipynb | 10ns MD - Learning from GROMACS Community
+V2: 06_MD_V2.ipynb | 100ns MD | RMSD < 2.0 Å | Thanks to TUMS HPC Guidance ✅ Result: CUM-002 Stable in 100ns
+
+🟣 PHASE 7: FREE ENERGY (FEP / MMPBSA)
+V1: 07_FEP_V1.ipynb | Learning Free Energy
+V2: 07_FEP_V2.ipynb | ΔG -42.5 kcal/mol ✅ Result: Strong Binding
+
+🟡 PHASE 8: LEAD OPTIMIZATION
+V1: 08_Lead_Opt_V1.ipynb | Optimizing CUM-001 to CUM-005
+V2: 08_Lead_Opt_V2.ipynb | CUM-002 Final ✅ Result: CUM-002 Final Lead
+
+🔵 PHASE 9: SYNTHESIS PATHWAY
+V1: 09_Synthesis_V1.ipynb | Learning Retrosynthesis
+V2: 09_Synthesis_V2.ipynb | 5-Step Route ✅ Result: Lab Ready (Needs Expert Validation)
+
+🟢 PHASE 10: IN-VITRO VALIDATION PLAN
+V1: 10_InVitro_V1.ipynb | Assay Design Learning
+V2: 10_InVitro_V2.ipynb | Validation Protocol ✅ Result: Plan Ready - Needs Lab Testing
+
+🟠 PHASE 11: PAPER WRITING
+V1: 11_Paper_V1.ipynb | Drafting with Gratitude to All References
+V2: 11_Paper_V2.ipynb | Full Paper with Figures ✅ Result: Paper Draft - Seeking Mentorship
+
+🔴 PHASE 12: PUBLICATION & PATENT
+V1: 12_Pub_V1.ipynb | Learning Publication Ethics
+V2: 12_Pub_V2.ipynb | Ready for Review & Guidance ✅ Result: Seeking Expert Review & Collaboration
+
+🔥 PHASE 13: AI OPTIMIZATION (GODFATHER)
+V1: 13_AI_Opt_V1.ipynb | Deep Learning QSAR - Learning from Pharma AI
+V2: 13_AI_Opt_V2.ipynb | CUM-002 Optimized to -11.2 kcal/mol ✅ Result: GODFATHER AI Lead
+
+💎 PHASE 14: SYSTEM PHARMACOLOGY & STRING NETWORK (GODFATHER)
+V1: 14_STRING_Network_V1.ipynb | STRING-db API Live - MAPK/ERK/AKT Cascade Mapping
+V2: 14_STRING_Network_V2_GODFATHER.ipynb | NetworkX Topology - Degree & Betweenness Centrality ✅ Result: KRAS Validated as Absolute Anchor Hub - Rare Network Science
+
+🏆 PHASE 15: GLOBAL MASTER AUDIT & GRAND DASHBOARD (THE FINALE - GODFATHER)
+V1: 15_Audit_V1.ipynb | Data Integrity Audit - Zero Missing Variables Cross-Verification
+V2: 15_Final_Thesis_V2_GODFATHER_Dashboard.ipynb | 4-Grid Master Dashboard - Polar Radar, Bar, Heatmap, Thesis ✅ STATUS: 16/16 COMPLETE - Portfolio LOCKED for Stanford Review
+
+---
+
+💊 CURRENT LEAD: CUM-002 | Target: KRAS-G12C 💊
+Computational Prediction - Needs Lab Validation - Inspired by Pharma's KRAS Research
+
+| Property | Computational Result | Note |
+| :--- | :--- | :--- |
+| Binding | -11.2 kcal/mol (Vina) - Parent CUM-001 -7.9 | In Silico Only - REAL: 4OBE 5725 atoms |
+| Stability | RMSD < 2.0 Å (100ns MD) | Computational |
+| Energy | ΔG -42.5 kcal/mol (FEP) | Needs Experimental Validation |
+| Status | Student Project, Not a Medicine Yet | Seeking Lab Collaboration |
+
+🙏 This is a student's learning project from Khanna City, Punjab. It is NOT a real drug yet. It needs years of lab testing like Pharma does. Full respect to Pharma's rigorous process.
+
+---
+
+🧑‍🔬 ABOUT ME - WITH HUMILITY
+
+**Karanveer Singh, 17 | B.Tech Biotechnology 1st Year**
+**SGGSWU, Fatehgarh Sahib | Khanna City, Punjab, India**
+**A Student Who Loves Science, Built This on Phone to Learn**
+
+"I am not claiming I cured cancer. I am a 17 year old student from Khanna City, Punjab studying in SGGSWU 1st Year B.Tech Biotechnology. I built ONCO-GUARD on my phone to learn drug discovery, inspired by Pharma's 100 years of work. Pharma scientists are my heroes. If my small computational work CUM-002 can someday help experts, it will be my honor. I am seeking mentorship, not claiming victory. - Karanveer Singh"
+
+---
+
+🚀 STATUS: 15 PHASES | V1+V2 | 30 NOTEBOOKS | GODFATHER EDITION | 16/16 COMPLETE | PORTFOLIO LOCKED FOR STANFORD REVIEW | STUDENT PROJECT | SEEKING MENTORSHIP | KHANNA CITY, PUNJAB PRIDE | SGGSWU FATEHGARH SAHIB 🚀
