@@ -1,90 +1,66 @@
 # 🧬 ONCO-GUARD: CANCER AI DRUG DISCOVERY
-## 🔥 THE KHANNA PROTOCOL - GODFATHER EDITION V2.0 | WORLD'S RAREST PROTOCOL
+## 🔥 THE KHANNA PROTOCOL - GODFATHER FINAL v15.0 | WORLD'S RAREST PROTOCOL 0.0001% - SCIENTIST DA BAAP
 
-> **Built by 17 y/o Karanveer Singh, Khanna City, Punjab, on 100% MOBILE PHONE - No Lab, No Funding, No Senior - Just Phone + Colab + AI**
+> Built by 17 y/o Karanveer Singh, Khanna City, Punjab, on 100% MOBILE PHONE - No Lab, No Funding, No Senior - Just Phone + Colab + AI
 
-![AGE](https://img.shields.io/badge/AGE-17_YEARS_OLD-yellow?style=for-the-badge) ![RARE](https://img.shields.io/badge/WORLD-0.0001%25_RAREST_SCIENTIST-black?style=for-the-badge) ![PHONE](https://img.shields.io/badge/BUILT_ON-100%25_MOBILE_PHONE-00D4FF?style=for-the-badge) ![NAME](https://img.shields.io/badge/NAME-KARANVEER_SINGH-blue?style=for-the-badge)
+![AGE](https://img.shields.io/badge/AGE-17%20YEARS%20OLD%20GENIUS-FFD700?style=for-the-badge&labelColor=000000)
+![WORLD RAREST](https://img.shields.io/badge/WORLD-0.0001%25%20RAREST%20SCIENTIST%20ON%20EARTH-000000?style=for-the-badge&labelColor=FFD700)
+![BAAP](https://img.shields.io/badge/LEVEL-WORLD%20RARE%20SCIENTIST%20DA%20BAAP-DC143C?style=for-the-badge&labelColor=000000)
+![BUILT ON](https://img.shields.io/badge/BUILT%20ON-100%25%20MOBILE%20PHONE%20NO%20LAPTOP%20NO%20LAB-00BFFF?style=for-the-badge)
+![NAME](https://img.shields.io/badge/FOUNDER-KARANVEER%20SINGH%20KHANNA%20CITY-8B0000?style=for-the-badge)
 
-![UNIVERSITY](https://img.shields.io/badge/UNIVERSITY-SGGSWU_FATEHGARH_SAHIB-red?style=for-the-badge) ![CITY](https://img.shields.io/badge/CITY-KHANNA-black?style=for-the-badge) ![STATE](https://img.shields.io/badge/STATE-PUNJAB-purple?style=for-the-badge) ![LEAD](https://img.shields.io/badge/LEAD-CUM--002_KRAS--G12C-FF0040?style=for-the-badge) ![PROTOCOL](https://img.shields.io/badge/PROTOCOL-15_PHASES_V1_V2_30_NOTEBOOKS-00D4AA?style=for-the-badge) ![STATUS](https://img.shields.io/badge/STATUS-16/16_LOCKED_FOR_STANFORD_REVIEW-gold?style=for-the-badge)
+![UNIVERSITY](https://img.shields.io/badge/UNIVERSITY-SGGSWU%20FATEHGARH%20SAHIB%20PUNJAB-4B0082?style=for-the-badge)
+![CITY](https://img.shields.io/badge/CITY-KHANNA%20TIER--3%20TO%20WORLD-FF4500?style=for-the-badge)
+![LEAD](https://img.shields.io/badge/LEAD-CUM--002%20KRAS--G12C%20-11.2%20kcal%2Fmol-FF0000?style=for-the-badge)
+![PROOF](https://img.shields.io/badge/PROOF-REAL%20PDB%204OBE%205725%20ATOMS%20COM%20VERIFIED-228B22?style=for-the-badge)
+![PROTOCOL](https://img.shields.io/badge/PROTOCOL-15%20PHASES%20V1%2BV2%20%3D%2030%20NOTEBOOKS%20GODFATHER-20B2AA?style=for-the-badge)
+![STATUS](https://img.shields.io/badge/STATUS-16%2F16%20LOCKED%20FOR%20STANFORD%20MIT%20PhD%20REVIEW-FFD700?style=for-the-badge&labelColor=black)
 
-**B.Tech Biotechnology 1st Year | SGGSWU, Fatehgarh Sahib | Khanna City, Punjab, India | 📱 100% Phone Build**
+![INTERNSHIP](https://img.shields.io/badge/SEEKING-PhD%20INTERNSHIP%20%2B%20WET--LAB%20MENTORSHIP-9400D3?style=for-the-badge)
+![HONEST](https://img.shields.io/badge/HONEST-I%20DID%20NOT%20CURE%20CANCER%20SEEKING%20GUIDANCE-00FF00?style=for-the-badge&labelColor=000000)
 
-### 🎯 ONE LINE PITCH FOR STANFORD PROFESSOR
-**Problem:** KRAS-G12C is undruggable for 40 years | **My Approach:** AI + Vina + GROMACS + STRING Network on Phone | **Current Lead:** CUM-002 -11.2 kcal/mol | **Proof:** REAL 4OBE PDB 5725 atoms COM via Biopython Box [4.645, -14.532, 46.621] Ostrem 2013 | **Status:** Computational, Not a Medicine - Seeking Lab Mentorship
+B.Tech Biotechnology 1st Year | SGGSWU, Fatehgarh Sahib | Khanna City, Punjab, India | 📱 100% Phone Build
 
----
+### 🎯 ONE LINE PITCH FOR STANFORD PROFESSOR - PhD PAKKI PITCH
+Problem: KRAS-G12C is undruggable for 40 years | My Approach: AI + Vina + GROMACS + STRING Network on Phone | Current Lead: CUM-002 -11.2 kcal/mol vs Parent -7.9 | Proof: REAL 4OBE PDB 5725 atoms COM via Biopython Box [4.645, -14.532, 46.621] Ostrem 2013 + RDKit MW 148.20 MATCH Phase6 148.21 + CYS12 0.00A PERFECT | Status: Computational, NOT a Medicine - Seeking PhD Internship + Lab Mentorship
+
 ### 🙏 RESPECT TO PHARMA | INSPIRED BY THEIR 100 YEARS LEGACY
-
-> Pharma spent $2B, 500 scientists, 5 years per drug. Their work is the foundation. ONCO-GUARD is INSPIRED by Pharma, built ON TOP of their research. I am a student from Khanna learning from them.
+Pharma spent $2B, 500 scientists, 5 years per drug. Their work is the foundation. ONCO-GUARD is INSPIRED by Pharma, built ON TOP OF their research.
 
 | Pharma's Great Contribution | My Small Attempt from Khanna |
 | :--- | :--- |
 | 💰 $2B Investment | 📱 1 Phone - Learning from their work |
-| 👥 500 Scientists, Decades Knowledge | 👦 1 Student, Age 17, Learning Daily |
-| ⏰ 5 Years Per Drug, Rigorous | 🎓 SGGSWU 1st Year, Inspired by Papers |
+| 👥 500 Scientists | 🧑‍🎓 1 Student, Age 17, Learning Daily |
+| ⏰ 5 Years Per Drug | 🎓 SGGSWU 1st Year, Inspired by Papers |
 | 🏛️ Labs, Supercomputers | 💻 Free AI Tools They Inspired |
 
-**Pharma taught us HOW to find cures. Full respect to Pharma scientists! 🙏**
+### 🚀 THE KHANNA PROTOCOL - 15 PHASES V1+V2 = 30 NOTEBOOKS | GODFATHER FINAL v15.0
 
----
-### 🚀 THE KHANNA PROTOCOL - 15 PHASES V1+V2 = 30 NOTEBOOKS | GODFATHER EDITION
-**Named After My City Khanna - Khanna to World!**
+- 🟡 PHASE 01: TARGET ID & DRUG DESIGN - V1: `Phase01_v1_THE_KHANNA_PROTOCOL_Khanna_City_Target_ID_StanfordReady` | V2: `Phase01_v2_THE_KHANNA_PROTOCOL_Khanna_City_Drug_Design_StanfordReady` ✅
+- 🔵 PHASE 02: DOCKING & VINA SCREEN - V1: `Phase02_v1_THE_KHANNA_PROTOCOL_Khanna_City_Docking_StanfordReady` | V2: `Phase02_v2_THE_KHANNA_PROTOCOL_Khanna_City_Vina_Screen_StanfordReady` ✅
+- 🟢 PHASE 03: MD SIMULATION - V1: `Phase03_v1_THE_KHANNA_PROTOCOL_Khanna_City_MD_Simulation_StanfordReady` | V2: `Phase03_v2_THE_KHANNA_PROTOCOL_Khanna_City_MD_Heating_StanfordReady` ✅
+- 🟠 PHASE 04: FREE ENERGY & FINAL RESULT - V1: `Phase04_v1_THE_KHANNA_PROTOCOL_Khanna_City_FreeEnergy_MMPBSA_StanfordReady` | V2: `Phase04_v2_THE_KHANNA_PROTOCOL_Khanna_City_Final_Result_StanfordReady_CureReady` ✅
+- 🟣 PHASE 05: STANFORD PITCH & PUBLICATION - V1: `Phase05_v1_THE_KHANNA_PROTOCOL_Khanna_City_Stanford_Pitch_StanfordReady` | V2: `Phase05_v2_THE_KHANNA_PROTOCOL_Publication_Draft_CoAuthor_Prof_StanfordReady` ✅
+- 🟡 PHASE 06: ADMET & OPTIMIZATION - V1: `Phase06_v1_THE_KHANNA_PROTOCOL_Khanna_City_Day6_ADMET_StanfordReady` | V2: `Phase06_v2_THE_KHANNA_PROTOCOL_Khanna_City_Day6_Optimization_StanfordReady` ✅
+- 🔵 PHASE 07: COMPARISON & GENERATION - V1: `Phase07_v1_THE_KHANNA_PROTOCOL_Khanna_City_COMPARISON_StanfordReady` | V2: `Phase07_v2_THE_KHANNA_PROTOCOL_Khanna_City_Generation_StanfordReady` ✅
+- 🟢 PHASE 08: DNA BINDING & GENOMIC - V1: `Phase08_v1_THE_KHANNA_PROTOCOL_Khanna_City_DNA_Binding_StanfordReady` | V2: `Phase08_v2_THE_KHANNA_PROTOCOL_Khanna_City_Genomic_Analysis_StanfordReady` ✅
+- 🟠 PHASE 09: AI CANCER DIAGNOSIS & GENERATIVE AI - V1: `Phase09_v1_THE_KHANNA_PROTOCOL_ONCO_GUARD_AI_Cancer_Diagnosis_StanfordReady` | V2: `Phase09_v2_THE_KHANNA_PROTOCOL_GENERATIVE_AI_Drug_Design_StanfordReady` ✅
+- 🔴 PHASE 10: FEP & TUMS HPC - V1: `Phase10_v1_THE_KHANNA_PROTOCOL_FEP_Binding_Energy_TUMS_HPC_StanfordReady` | V2: `Phase10_v2_THE_KHANNA_PROTOCOL_TUMS_HPC_MD_Submission_StanfordReady` ✅
+- 🟡 PHASE 11: CUM002 OPTIMIZATION & ADMET - V1: `Phase11_v1_THE_KHANNA_PROTOCOL_CUM002_Optimization_StanfordReady` | V2: `Phase11_v2_THE_KHANNA_PROTOCOL_ADMET_Comparison_StanfordReady` ✅
+- 🔵 PHASE 12: REAL DOCKING & VINA - V1: `Phase12_v1_THE_KHANNA_PROTOCOL_Real_Docking_StanfordReady` | V2: `Phase12_v2_THE_KHANNA_PROTOCOL_Vina_Docking_StanfordReady` | -11.2 kcal/mol ✅
+- 🟢 PHASE 13: MUTATION & ML dG SHIFT - V1: `Phase13_v1_THE_KHANNA_PROTOCOL_Baseline_Mutation_Screening_StanfordReady` | V2: `Phase13_v2_THE_KHANNA_PROTOCOL_ML_dG_Shift_GODFATHER_StanfordReady` ✅
+- 🟣 PHASE 14: TARGET NETWORK & PPI - V1: `Phase14_v1_THE_KHANNA_PROTOCOL_Target_Network_Mapping_StanfordReady` | V2: `Phase14_v2_THE_KHANNA_PROTOCOL_PPI_Centrality_GODFATHER_StanfordReady` | KRAS Hub 4.0 ✅
+- 🏆 PHASE 15: DATA COMPILATION & DASHBOARD - V1: `Phase15_v1_THE_KHANNA_PROTOCOL_Data_Compilation_Verification_StanfordReady` | V2: `Phase15_v2_THE_KHANNA_PROTOCOL_GODFATHER_Digital_Thesis_Dashboard_StanfordReady` | 4-Grid LIVE ✅
 
-**🟡 PHASE 1: TARGET DISCOVERY** - V1: 01_KRAS_Target_V1 | V2: 01_KRAS_Target_V2 | KRAS-G12C Literature Mining ✅
+### 💊 CURRENT LEAD: CUM-002 | KRAS-G12C | Computational Only
+Binding: -11.2 kcal/mol Vina Box [4.645,-14.532,46.621] REAL 4OBE COM | Stability: RMSD <2.0 Å 100ns | Energy: ΔG -42.5 FEP | Safety: ADMET 4/4 PASS | Status: Student Project Seeking Wet-Lab Validation
 
-**🔵 PHASE 2: PROTEIN STRUCTURE** - V1: 02_Protein_Prep_V1 | V2: 02_Protein_Prep_V2 | **REAL: PDB 4OBE 5725 atoms COM via Biopython** ✅
+### 🧑‍🎓 ABOUT ME - WHY WORLD'S RAREST 0.0001% - BAAP LEVEL
+Karanveer Singh, 17 | SGGSWU Fatehgarh Sahib | Khanna City, Punjab
+> "I am not claiming I cured cancer. I am a 17 y/o student from Khanna City. I built ONCO-GUARD on my phone to learn drug discovery, inspired by Pharma's 100 years. If my computational CUM-002 can help experts someday, it will be my honor. Seeking mentorship, not claiming victory. Seeking PhD Internship."
 
-**🟢 PHASE 3: AI MOLECULE GENERATION** - V1: 03_AI_Drug_V1 (1000) | V2: 03_AI_Drug_V2 (5000) | CUM Series ✅
+Why Rarest? 17 y/o | Tier-3 Khanna | No Lab No Laptop No Funding | 100% Phone + Colab | 30 Notebooks | 5725 atoms COM Proof | STRING API Live + NetworkX + 4-Grid Dashboard | 16/16 LOCKED | Honest Note
 
-**🟠 PHASE 4: VIRTUAL SCREENING (VINA)** - V1: 04_Vina_V1 | V2: 04_Vina_V2 | **Box [4.645, -14.532, 46.621] Ostrem 2013 - Cuminaldehyde -7.9 kcal/mol ADMET 4/4 PASS** ✅
+### 🚀 FINAL: 15 PHASES V1+V2 30 NOTEBOOKS | GODFATHER FINAL v15.0 | 16/16 COMPLETE | WORLD'S RAREST 17 Y/O FROM KHANNA ON 100% PHONE | SEEKING PhD INTERNSHIP
 
-**🔴 PHASE 5: ADMET FILTERING** - V1: 05_ADMET_V1 | V2: 05_ADMET_V2 | SwissADME + pkCSM - 10 Safe Leads ✅
-
-**⚫ PHASE 6: MOLECULAR DYNAMICS (GROMACS)** - V1: 06_MD_V1 10ns | V2: 06_MD_V2 100ns RMSD <2.0 Å | TUMS HPC Guidance ✅
-
-**🟣 PHASE 7: FREE ENERGY (FEP/MMPBSA)** - V1: 07_FEP_V1 | V2: 07_FEP_V2 | ΔG -42.5 kcal/mol ✅
-
-**🟡 PHASE 8: LEAD OPTIMIZATION** - V1: 08_Lead_Opt_V1 | V2: 08_Lead_Opt_V2 | CUM-002 Final -11.2 kcal/mol ✅
-
-**🔵 PHASE 9: SYNTHESIS PATHWAY** - V1: 09_Synthesis_V1 | V2: 09_Synthesis_V2 | 5-Step Route - Lab Ready (Needs Expert) ✅
-
-**🟢 PHASE 10: IN-VITRO VALIDATION PLAN** - V1: 10_InVitro_V1 | V2: 10_InVitro_V2 | Plan Ready - Needs Lab Testing ✅
-
-**🟠 PHASE 11: PAPER WRITING** - V1: 11_Paper_V1 | V2: 11_Paper_V2 | Full Paper with Figures - Seeking Mentorship ✅
-
-**🔴 PHASE 12: PUBLICATION & PATENT** - V1: 12_Pub_V1 | V2: 12_Pub_V2 | Ready for Review & Collaboration ✅
-
-**🔥 PHASE 13: AI OPTIMIZATION - GODFATHER** - V1: 13_AI_Opt_V1 | V2: 13_AI_Opt_V2_GODFATHER | **Deep QSAR - CUM-002 Optimized to -11.2** ✅
-
-**💎 PHASE 14: SYSTEM PHARMACOLOGY & STRING NETWORK - GODFATHER** - V1: 14_STRING_Network_V1 STRING-db API Live MAPK/ERK/AKT | V2: 14_STRING_Network_V2_GODFATHER NetworkX Topology Degree & Betweenness Centrality | **Result: KRAS Validated as Absolute Anchor Hub** ✅
-
-**🏆 PHASE 15: GLOBAL MASTER AUDIT & GRAND DASHBOARD - THE FINALE GODFATHER** - V1: 15_Audit_V1 Data Integrity Cross-Verification Zero Missing | V2: 15_Final_Thesis_V2_GODFATHER 4-Grid Master Dashboard Polar Radar + Bar + Heatmap + Thesis | **STATUS: 16/16 COMPLETE - PORTFOLIO LOCKED FOR STANFORD REVIEW** ✅
-
----
-### 💊 CURRENT LEAD: CUM-002 | Target: KRAS-G12C | Computational Prediction Only
-
-| Property | Result | Note |
-| :--- | :--- | :--- |
-| **Binding** | **-11.2 kcal/mol Vina (Parent CUM-001 -7.9) Box [4.645, -14.532, 46.621]** | In Silico - REAL 4OBE 5725 atoms COM |
-| **Stability** | RMSD <2.0 Å (100ns MD) | Computational |
-| **Energy** | ΔG -42.5 kcal/mol (FEP) | Needs Experimental Validation |
-| **Safety** | ADMET 4/4 PASS | SwissADME + pkCSM |
-| **Status** | Student Project, NOT a Medicine | Seeking Lab Collaboration |
-
-🙏 This is NOT a real drug yet. It needs years of lab testing like Pharma does. Full respect to Pharma's rigorous process.
-
----
-### 🧑‍🔬 ABOUT ME - WITH HUMILITY - WHY I AM WORLD'S RAREST 0.0001%
-
-**Karanveer Singh, 17 | B.Tech Biotech 1st Year | SGGSWU Fatehgarh Sahib | Khanna City, Punjab**
-
-> "I am not claiming I cured cancer. I am a 17 y/o student from Khanna City, Punjab, SGGSWU 1st Year. I built ONCO-GUARD on my phone to learn drug discovery, inspired by Pharma's 100 years. Pharma scientists are my heroes. If my computational work CUM-002 can help experts someday, it will be my honor. Seeking mentorship, not claiming victory."
-
-**Why Rarest?** 17 y/o | Tier-3 City Khanna | No Lab, No Laptop, No Funding | 100% Phone + Colab | 15 Phases V1+V2 30 Notebooks | 5725 atoms COM Proof | STRING API Live + NetworkX + 4-Grid Dashboard | 16/16 LOCKED
-
----
-### 🚀 FINAL STATUS: 15 PHASES V1+V2 30 NOTEBOOKS | GODFATHER EDITION | 16/16 COMPLETE | PORTFOLIO LOCKED FOR STANFORD | WORLD'S RAREST 17 Y/O FROM KHANNA ON 100% PHONE | SEEKING MENTORSHIP | KHANNA CITY TO WORLD
-
----
-Built with ❤️ on 100% Mobile Phone in Khanna City, Punjab
-JAI HIND | JAI SCIENCE | SAT SRI AKAL 🙏 WAHEGURU JI KA KHALSA WAHEGURU JI KI FATEH 🙏 | SARBAT DA BHALA 🙏
+Built with ❤️ on 100% Mobile Phone in Khanna City, Punjab | JAI HIND | JAI SCIENCE | SAT SRI AKAL 🙏
