@@ -3,22 +3,22 @@
 
 > Built by 17 y/o Karanveer Singh, Khanna City, Punjab, on 100% MOBILE PHONE - No Lab, No Funding, No Senior - Just Phone + Colab + AI
 
-[AGE](https://img.shields.io/badge/AGE-17%20YEARS%20OLD%20LEARNER-FFD700?style=for-the-badge&labelColor=000000)
-[WORLD](https://img.shields.io/badge/WORLD-0.0001%20PERCENT%20RAREST%20YOUNG%20RESEARCHER-000000?style=for-the-badge&labelColor=FFD700)
-[BUILT](https://img.shields.io/badge/BUILT%20ON-100%25%20MOBILE%20PHONE%20NO%20LAB-00FFFF?style=for-the-badge&labelColor=000000)
-[NAME](https://img.shields.io/badge/NAME-KARANVEER%20SINGH%20FROM%20KHANNA-FFFFFF?style=for-the-badge&labelColor=8B0000)
+![AGE](https://img.shields.io/badge/AGE-17%20YEARS%20OLD%20LEARNER-FFD700?style=for-the-badge&labelColor=000000)
+![WORLD](https://img.shields.io/badge/WORLD-0.0001%20PERCENT%20RAREST%20YOUNG%20RESEARCHER-000000?style=for-the-badge&labelColor=FFD700)
+![BUILT](https://img.shields.io/badge/BUILT%20ON-100%25%20MOBILE%20PHONE%20NO%20LAB-00FFFF?style=for-the-badge&labelColor=000000)
+![NAME](https://img.shields.io/badge/NAME-KARANVEER%20SINGH%20FROM%20KHANNA-FFFFFF?style=for-the-badge&labelColor=8B0000)
 
-[UNIVERSITY](https://img.shields.io/badge/UNIVERSITY-SGGSWU%20FATEHGARH%20SAHIB-FFFFFF?style=for-the-badge&labelColor=2F4F4F)
-[CITY](https://img.shields.io/badge/CITY-KHANNA%20CITY%20TO%20WORLD-000000?style=for-the-badge&labelColor=87CEEB)
-[STATE](https://img.shields.io/badge/STATE-PUNJAB%20INDIA-FFFFFF?style=for-the-badge&labelColor=9400D3)
+![UNIVERSITY](https://img.shields.io/badge/UNIVERSITY-SGGSWU%20FATEHGARH%20SAHIB-FFFFFF?style=for-the-badge&labelColor=2F4F4F)
+![CITY](https://img.shields.io/badge/CITY-KHANNA%20CITY%20TO%20WORLD-000000?style=for-the-badge&labelColor=87CEEB)
+![STATE](https://img.shields.io/badge/STATE-PUNJAB%20INDIA-FFFFFF?style=for-the-badge&labelColor=9400D3)
 
-[LEAD](https://img.shields.io/badge/LEAD-CUM--002%20KRAS--G12C%2011.2%20KCAL-FFFFFF?style=for-the-badge&labelColor=DC143C)
-[PROOF](https://img.shields.io/badge/PROOF-REAL%20PDB%204OBE%205725%20ATOMS%20VERIFIED-000000?style=for-the-badge&labelColor=228B22)
-[PROTOCOL](https://img.shields.io/badge/PROTOCOL-15%20PHASES%20V1%2BV2%2030%20NOTEBOOKS-000000?style=for-the-badge&labelColor=20B2AA)
-[STATUS](https://img.shields.io/badge/STATUS-16%2F16%20LOCKED%20FOR%20REVIEW-000000?style=for-the-badge&labelColor=FFD700)
+![LEAD](https://img.shields.io/badge/LEAD-CUM--002%20KRAS--G12C%2011.2%20KCAL-FFFFFF?style=for-the-badge&labelColor=DC143C)
+![PROOF](https://img.shields.io/badge/PROOF-REAL%20PDB%204OBE%205725%20ATOMS%20VERIFIED-000000?style=for-the-badge&labelColor=228B22)
+![PROTOCOL](https://img.shields.io/badge/PROTOCOL-15%20PHASES%20V1%2BV2%2030%20NOTEBOOKS-000000?style=for-the-badge&labelColor=20B2AA)
+![STATUS](https://img.shields.io/badge/STATUS-16%2F16%20LOCKED%20FOR%20REVIEW-000000?style=for-the-badge&labelColor=FFD700)
 
-[OPEN](https://img.shields.io/badge/OPEN%20TO-RESEARCH%20COLLAB%20AND%20MENTORSHIP-FFFFFF?style=for-the-badge&labelColor=9400D3)
-[HONEST](https://img.shields.io/badge/HONEST-STUDENT%20LEARNING%20NOT%20CLAIMING%20CURE-000000?style=for-the-badge&labelColor=00FF00)
+![OPEN](https://img.shields.io/badge/OPEN%20TO-RESEARCH%20COLLAB%20AND%20MENTORSHIP-FFFFFF?style=for-the-badge&labelColor=9400D3)
+![HONEST](https://img.shields.io/badge/HONEST-STUDENT%20LEARNING%20NOT%20CLAIMING%20CURE-000000?style=for-the-badge&labelColor=00FF00)
 
 B.Tech Biotechnology 1st Year | SGGSWU, Fatehgarh Sahib | Khanna City, Punjab, India | 📱 100% Phone Build
 
