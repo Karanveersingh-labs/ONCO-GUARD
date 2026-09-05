@@ -3,21 +3,19 @@
 
 > Built by 17 y/o Karanveer Singh, Khanna City, Punjab, on 100% MOBILE PHONE
 
-[AGE](https://img.shields.io/badge/AGE-17%20YEARS%20OLD%20LEARNER-FFD700?style=for-the-badge&labelColor=000000)
-[WORLD](https://img.shields.io/badge/WORLD-0.0001%25%20RAREST%20YOUNG%20RESEARCHER-000000?style=for-the-badge&labelColor=FFD700)
-[BUILT](https://img.shields.io/badge/BUILT%20ON-100%25%20MOBILE%20PHONE%20NO%20LAB-000000?style=for-the-badge&labelColor=00CED1)
-[NAME](https://img.shields.io/badge/NAME-KARANVEER%20SINGH%20KHANNA-FFD700?style=for-the-badge&labelColor=8B0000)
-[UNIVERSITY](https://img.shields.io/badge/UNIVERSITY-SGGSWU%20FATEHGARH%20SAHIB%20BIOTECH-FFD700?style=for-the-badge&labelColor=4B0082)
-[CITY](https://img.shields.io/badge/CITY-KHANNA%20CITY%20PUNJAB%20TO%20WORLD-000000?style=for-the-badge&labelColor=FFD700)
-[STATE](https://img.shields.io/badge/STATE-PUNJAB%20INDIA%20GLOBAL%20RESEARCH-FFD700?style=for-the-badge&labelColor=4B0082)
-[LEAD](https://img.shields.io/badge/LEAD-CUM--002%20KRAS--G12C%2011.2%20KCAL%20VS%207.9-FFD700?style=for-the-badge&labelColor=DC143C)
-[PROOF](https://img.shields.io/badge/PROOF-REAL%20PDB%204OBE%205725%20ATOMS%20VERIFIED-000000?style=for-the-badge&labelColor=00FF7F)
-[PROTOCOL](https://img.shields.io/badge/PROTOCOL-15%20PHASES%20V1%2BV2%2030%20NOTEBOOKS-FFD700?style=for-the-badge&labelColor=9400D3)
-[STATUS](https://img.shields.io/badge/STATUS-16%2F16%20LOCKED%20FOR%20PEER%20REVIEW-000000?style=for-the-badge&labelColor=FFD700)
-[OPEN](https://img.shields.io/badge/OPEN%20TO-COLLABORATION%20%26%20MENTORSHIP-000000?style=for-the-badge&labelColor=FFD700)
-[HONEST](https://img.shields.io/badge/HONEST-STUDENT%20LEARNING%20NOT%20CLAIMING%20CURE-000000?style=for-the-badge&labelColor=32CD32)
-
-**👨‍🔬 KARANVEER SINGH KHANNA | 17 Y/O | KHANNA CITY, PUNJAB | B.Tech Biotechnology 1st Year | SGGSWU Fatehgarh Sahib | 📱 100% Phone Build | WORLD'S RAREST 0.0001% | KHANNA CITY TO WORLD**
+![AGE](https://img.shields.io/badge/AGE-17%20YEARS%20OLD%20LEARNER-FFD700?style=for-the-badge&labelColor=000000)
+![WORLD](https://img.shields.io/badge/WORLD-0.0001%25%20RAREST%20YOUNG%20RESEARCHER-000000?style=for-the-badge&labelColor=FFD700)
+![BUILT](https://img.shields.io/badge/BUILT%20ON-100%25%20MOBILE%20PHONE%20NO%20LAB-000000?style=for-the-badge&labelColor=00CED1)
+![NAME](https://img.shields.io/badge/NAME-KARANVEER%20SINGH%20KHANNA%20CITY-FFD700?style=for-the-badge&labelColor=8B0000)
+![UNIVERSITY](https://img.shields.io/badge/UNIVERSITY-SGGSWU%20FATEHGARH%20SAHIB%20BIOTECH-FFD700?style=for-the-badge&labelColor=4B0082)
+![CITY](https://img.shields.io/badge/CITY-KHANNA%20CITY%20PUNJAB%20TO%20WORLD-000000?style=for-the-badge&labelColor=FFD700)
+![STATE](https://img.shields.io/badge/STATE-PUNJAB%20INDIA%20GLOBAL%20RESEARCH-FFD700?style=for-the-badge&labelColor=4B0082)
+![LEAD](https://img.shields.io/badge/LEAD-CUM--002%20KRAS--G12C%2011.2%20KCAL%20VS%207.9-FFD700?style=for-the-badge&labelColor=DC143C)
+![PROOF](https://img.shields.io/badge/PROOF-REAL%20PDB%204OBE%205725%20ATOMS%20VERIFIED-000000?style=for-the-badge&labelColor=00FF7F)
+![PROTOCOL](https://img.shields.io/badge/PROTOCOL-15%20PHASES%20V1%2BV2%2030%20NOTEBOOKS-FFD700?style=for-the-badge&labelColor=9400D3)
+![STATUS](https://img.shields.io/badge/STATUS-16%2F16%20LOCKED%20FOR%20PEER%20REVIEW-000000?style=for-the-badge&labelColor=FFD700)
+![OPEN](https://img.shields.io/badge/OPEN%20TO-COLLABORATION%20%26%20MENTORSHIP-000000?style=for-the-badge&labelColor=FFD700)
+![HONEST](https://img.shields.io/badge/HONEST-STUDENT%20LEARNING%20NOT%20CLAIMING%20CURE-000000?style=for-the-badge&labelColor=32CD32)
 
 B.Tech Biotechnology 1st Year | SGGSWU, Fatehgarh Sahib | Khanna City, Punjab, India | 📱 100% Phone Build
 
@@ -62,9 +60,8 @@ Pharma spent $2B, 500 scientists, 5 years per drug. Their work is the foundation
 | Status | Student Project, NOT a Medicine | Seeking Guidance |
 
 ### 🧑‍🎓 ABOUT ME - WHY WORLD'S RAREST 0.0001%
-**KARANVEER SINGH KHANNA - 17 Y/O FROM KHANNA CITY, PUNJAB**
-B.Tech Biotech 1st Year | SGGSWU Fatehgarh Sahib | Khanna City, Punjab
-> "I am not claiming cure. 17 y/o student from Khanna City learning drug discovery, inspired by Pharma's 100 years. If my computational work CUM-002 can help experts someday, it will be my honor. Seeking guidance and collaboration to learn further."
+Karanveer Singh, 17 | B.Tech Biotech 1st Year | SGGSWU Fatehgarh Sahib | Khanna City, Punjab
+> "I am not claiming cure. 17 y/o student learning drug discovery, inspired by Pharma's 100 years. Seeking guidance and collaboration."
 
 ### 🚀 FINAL STATUS: 15 PHASES V1+V2 30 NOTEBOOKS | 16/16 LOCKED | PORTFOLIO LOCKED FOR PEER REVIEW | WORLD'S RAREST 17 Y/O FROM KHANNA ON 100% PHONE | OPEN TO COLLABORATION & MENTORSHIP | KHANNA CITY TO WORLD
 
