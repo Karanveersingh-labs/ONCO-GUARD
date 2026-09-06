@@ -34,17 +34,33 @@ ADDITIONAL ETHICS CLAUSE - Added by Author for Academic Integrity:
 
 3. Open Science: 18 Phases V1+V2 = 36 Notebooks built on 100% Mobile Phone +
    Google Colab, TUMS HPC via BioBricks, ESM2, BioBERT, ColabFold.
+   Complete Roadmap 100% Phone Build Khanna City to World:
+   Phase 1_v1/v2 - Target Selection KRAS WT 4OBE Literature 5725 atoms
+   Phase 2_v1/v2 - Ligand Library Cuminaldehyde CUM-002 Preparation
+   Phase 3_v1/v2 - Protein Preparation Cleaning Protonation ANM Analysis
+   Phase 4_v1/v2 - Binding Site Definition Box [4.645,-14.532,46.621] CYS12
+   Phase 5_v1/v2 - Molecular Docking Vina Grid Size 20 -11.2 kcal/mol
+   Phase 6_v1/v2 - Interaction Analysis H-Bond Hydrophobic CYS12 GLU62
+   Phase 7_v1/v2 - ADMET Prediction SwissADME pkCSM Drug Likeness
+   Phase 8_v1/v2 - MD Setup 50ns NPT NVT Equilibration RMSD
+   Phase 9_v1/v2 - MD Analysis RMSF Rg H-Bond MMGBSA
+   Phase 10_v1/v2 - Mutant KRAS G12D G13D Comparison Docking
+   Phase 11_v1/v2 - Enhanced Sampling ANM CYS12 0.01070 GLU62 0.16810
+   Phase 12_v1/v2 - ESM2 BioBERT AI Validation Embedding
+   Phase 13_v1/v2 - ColabFold AlphaFold Structure Validation
+   Phase 14_v1/v2 - Lead Optimization CUM-002 Derivatives
+   Phase 15_v1/v2 - Cross Validation 100% Reproducibility Check
+   Phase 16_v1/v2 - Paper Draft Methods Results Figures
    Phase 17_v1 - 8/8 COMPLETE - Dual G13D G12D - ADMET 50ns MD
    Phase 17_v2 - 8/8 COMPLETE - Triple G13D G12D G12V - Extended ADMET 100ns MD
-   Phase 18_v1 - 4/4 COMPLETE - Nature Figure Triple 100ns MD - Zenodo DOI Paper Draft
+   Phase 18_v1 - 4/4 COMPLETE - Nature Figure Triple 100ns MD 1.85A - Zenodo DOI Paper
    Phase 18_v2 - 5/5 COMPLETE - Zenodo Package Final DOI - Statistical Comparison
-   For education and open research.
-   Box [4.645, -14.532, 46.621] - ANM CYS12 0.01070 GLU62 0.16810
+   For education and open research. Box [4.645,-14.532,46.621] ANM CYS12 0.01070 GLU62 0.16810
 
 4. Seeking Mentorship: Seeking guidance for wet-lab validation from Stanford
    and global labs. Student from Khanna, Punjab, India.
    17 y/o Karanveer Singh, 1st Year B.Tech Biotechnology, SGGSWU Fatehgarh Sahib.
-   Built on 100% Mobile Phone - Khanna City to World.
+   Built on 100% Mobile Phone - Khanna City to World - No Computer.
 
 JAI HIND | JAI SCIENCE | RESPECT TO PHARMA
 ---
