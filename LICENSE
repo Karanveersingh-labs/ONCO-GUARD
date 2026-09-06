@@ -24,22 +24,29 @@ SOFTWARE.
 ---
 ADDITIONAL ETHICS CLAUSE - Added by Author for Academic Integrity:
 
-1. Respect to Pharma: This project is inspired by 100 years of Pharma R&D. 
-   Investment $2B, 500 scientists, 5 years per drug is the foundation. 
+1. Respect to Pharma: This project is inspired by 100 years of Pharma R&D.
+   Investment $2B, 500 scientists, 5 years per drug is the foundation.
    This is a student learning project, not a replacement.
 
 2. NOT A MEDICINE: Lead CUM-002 -11.2 kcal/mol is computational prediction only.
-   PDB ID 4OBE 5725 atoms, Grid Center [4.645, -14.532, 46.621] Size 20 
+   PDB ID 4OBE 5725 atoms, Grid Center [4.645, -14.532, 46.621] Size 20
    Reference: Ostrem et al. Nature 2013. No lab test, NOT for human use.
 
-3. Open Science: 15 Phases V1+V2 = 30 notebooks built on 100% Mobile Phone + 
-   Google Colab, TUMS HPC via BioBricks, ESM2, BioBERT, ColabFold. 
+3. Open Science: 18 Phases V1+V2 = 36 Notebooks built on 100% Mobile Phone +
+   Google Colab, TUMS HPC via BioBricks, ESM2, BioBERT, ColabFold.
+   Phase 17_v1 - 8/8 COMPLETE - Dual G13D G12D - ADMET 50ns MD
+   Phase 17_v2 - 8/8 COMPLETE - Triple G13D G12D G12V - Extended ADMET 100ns MD
+   Phase 18_v1 - 4/4 COMPLETE - Nature Figure Triple 100ns MD - Zenodo DOI Paper Draft
+   Phase 18_v2 - 5/5 COMPLETE - Zenodo Package Final DOI - Statistical Comparison
    For education and open research.
+   Box [4.645, -14.532, 46.621] - ANM CYS12 0.01070 GLU62 0.16810
 
-4. Seeking Mentorship: Seeking guidance for wet-lab validation from Stanford 
+4. Seeking Mentorship: Seeking guidance for wet-lab validation from Stanford
    and global labs. Student from Khanna, Punjab, India.
+   17 y/o Karanveer Singh, 1st Year B.Tech Biotechnology, SGGSWU Fatehgarh Sahib.
+   Built on 100% Mobile Phone - Khanna City to World.
 
 JAI HIND | JAI SCIENCE | RESPECT TO PHARMA
 ---
 Built with love on 100% Mobile Phone in Khanna City, Punjab
- SAT SRI AKAL | WAHEGURU JI KA KHALSA WAHEGURU JI KI FATEH | SARBAT DA BHALA
+SAT SRI AKAL | WAHEGURU JI KA KHALSA WAHEGURU JI KI FATEH | SARBAT DA BHALA
