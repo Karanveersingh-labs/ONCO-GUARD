@@ -4,19 +4,19 @@
 
 Built by 17 y/o Karanveer Singh, Khanna City, Punjab, on 100% MOBILE PHONE - 36 NOTEBOOKS LOCKED
 
-[AGE](https://img.shields.io/badge/AGE-17%20YEARS%20OLD%20LEARNER-yellow?style=for-the-badge)
-[WORLD](https://img.shields.io/badge/WORLD-0.0001%25%20RAREST%20YOUNG%20RESEARCHER-black?style=for-the-badge)
-[BUILT ON](https://img.shields.io/badge/BUILT%20ON-100%25%20MOBILE%20PHONE%20NO%20LAB-cyan?style=for-the-badge)
-[NAME](https://img.shields.io/badge/NAME-KARANVEER%20SINGH-orange?style=for-the-badge)
-[UNIVERSITY](https://img.shields.io/badge/UNIVERSITY-1ST%20YEAR%20B.TECH%20BIOTECHNOLOGY%20SGGSWU-purple?style=for-the-badge)
-[CITY](https://img.shields.io/badge/CITY-KHANNA%20CITY%20PUNJAB%20TO%20WORLD-yellow?style=for-the-badge)
-[STATE](https://img.shields.io/badge/STATE-PUNJAB%20INDIA%20GLOBAL%20RESEARCH-purple?style=for-the-badge)
-[LEAD](https://img.shields.io/badge/LEAD-CUM--002%20TRIPLE%20G13D%2BG12D%2BG12V%20TARGET-red?style=for-the-badge)
-[BOX](https://img.shields.io/badge/BOX-%5B4.645%2C-14.532%2C46.621%5D%20REAL%2040BE%205725%20ATOMS-black?style=for-the-badge)
-[PROTOCOL](https://img.shields.io/badge/PROTOCOL-18%20PHASES%20V1%2BV2%2036%20NOTEBOOKS-purple?style=for-the-badge)
-[STATUS](https://img.shields.io/badge/STATUS-36%2F36%20LOCKED%20FOR%20PEER%20REVIEW-yellow?style=for-the-badge)
-[HONEST](https://img.shields.io/badge/HONEST-STUDENT%20LEARNING%20NOT%20CLAIMING%20CURE-black?style=for-the-badge)
-[OPEN TO](https://img.shields.io/badge/OPEN%20TO-LEARNING%20%26%20GUIDANCE-black?style=for-the-badge)
+![AGE](https://img.shields.io/badge/AGE-17%20YEARS%20OLD%20LEARNER-yellow?style=for-the-badge)
+![WORLD](https://img.shields.io/badge/WORLD-0.0001%25%20RAREST%20YOUNG%20RESEARCHER-black?style=for-the-badge)
+![BUILT ON](https://img.shields.io/badge/BUILT%20ON-100%25%20MOBILE%20PHONE%20NO%20LAB-cyan?style=for-the-badge)
+![NAME](https://img.shields.io/badge/NAME-KARANVEER%20SINGH-orange?style=for-the-badge)
+![UNIVERSITY](https://img.shields.io/badge/UNIVERSITY-1ST%20YEAR%20B.TECH%20BIOTECHNOLOGY%20SGGSWU-purple?style=for-the-badge)
+![CITY](https://img.shields.io/badge/CITY-KHANNA%20CITY%20PUNJAB%20TO%20WORLD-yellow?style=for-the-badge)
+![STATE](https://img.shields.io/badge/STATE-PUNJAB%20INDIA%20GLOBAL%20RESEARCH-purple?style=for-the-badge)
+![LEAD](https://img.shields.io/badge/LEAD-CUM--002%20TRIPLE%20G13D%2BG12D%2BG12V%20TARGET-red?style=for-the-badge)
+![BOX](https://img.shields.io/badge/BOX-%5B4.645%2C-14.532%2C46.621%5D%20REAL%2040BE%205725%20ATOMS-black?style=for-the-badge)
+![PROTOCOL](https://img.shields.io/badge/PROTOCOL-18%20PHASES%20V1%2BV2%2036%20NOTEBOOKS-purple?style=for-the-badge)
+![STATUS](https://img.shields.io/badge/STATUS-36%2F36%20LOCKED%20FOR%20PEER%20REVIEW-yellow?style=for-the-badge)
+![HONEST](https://img.shields.io/badge/HONEST-STUDENT%20LEARNING%20NOT%20CLAIMING%20CURE-black?style=for-the-badge)
+![OPEN TO](https://img.shields.io/badge/OPEN%20TO-LEARNING%20%26%20GUIDANCE-black?style=for-the-badge)
 
 B.Tech Biotechnology 1st Year | SGGSWU, Fatehgarh Sahib | Khanna City, Punjab, India | 100% Phone Build
 
