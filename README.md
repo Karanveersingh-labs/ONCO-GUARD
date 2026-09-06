@@ -4,19 +4,19 @@
 
 Built by 17 y/o Karanveer Singh, Khanna City, Punjab, on 100% MOBILE PHONE - 36 NOTEBOOKS LOCKED
 
-![AGE](https://img.shields.io/badge/AGE-17%20YEARS%20OLD%20LEARNER-yellow?style=for-the-badge)
-![WORLD](https://img.shields.io/badge/WORLD-0.0001%25%20RAREST%20YOUNG%20RESEARCHER-black?style=for-the-badge)
-![BUILT ON](https://img.shields.io/badge/BUILT%20ON-100%25%20MOBILE%20PHONE%20NO%20LAB-cyan?style=for-the-badge)
-![NAME](https://img.shields.io/badge/NAME-KARANVEER%20SINGH%20KHANNA%20CITY-orange?style=for-the-badge)
-![UNIVERSITY](https://img.shields.io/badge/UNIVERSITY-SGGSWU%20Fatehgarh%20Sahib%20BIOTECH-purple?style=for-the-badge)
-![CITY](https://img.shields.io/badge/CITY-KHANNA%20CITY%20PUNJAB%20TO%20WORLD-yellow?style=for-the-badge)
-![STATE](https://img.shields.io/badge/STATE-PUNJAB%20INDIA%20GLOBAL%20RESEARCH-purple?style=for-the-badge)
-![LEAD](https://img.shields.io/badge/LEAD-CUM--002%20TRIPLE%20G13D%2BG12D%2BG12V%20TARGET-red?style=for-the-badge)
-![BOX](https://img.shields.io/badge/BOX-%5B4.645%2C-14.532%2C46.621%5D%20REAL%2040BE%205725%20ATOMS-black?style=for-the-badge)
-![PROTOCOL](https://img.shields.io/badge/PROTOCOL-18%20PHASES%20V1%2BV2%2036%20NOTEBOOKS-purple?style=for-the-badge)
-![STATUS](https://img.shields.io/badge/STATUS-36%2F36%20LOCKED%20FOR%20PEER%20REVIEW-yellow?style=for-the-badge)
-![HONEST](https://img.shields.io/badge/HONEST-STUDENT%20LEARNING%20NOT%20CLAIMING%20CURE-black?style=for-the-badge)
-![OPEN TO](https://img.shields.io/badge/OPEN%20TO-LEARNING%20%26%20GUIDANCE-black?style=for-the-badge)
+[AGE](https://img.shields.io/badge/AGE-17%20YEARS%20OLD%20LEARNER-yellow?style=for-the-badge)
+[WORLD](https://img.shields.io/badge/WORLD-0.0001%25%20RAREST%20YOUNG%20RESEARCHER-black?style=for-the-badge)
+[BUILT ON](https://img.shields.io/badge/BUILT%20ON-100%25%20MOBILE%20PHONE%20NO%20LAB-cyan?style=for-the-badge)
+[NAME](https://img.shields.io/badge/NAME-KARANVEER%20SINGH-orange?style=for-the-badge)
+[UNIVERSITY](https://img.shields.io/badge/UNIVERSITY-1ST%20YEAR%20B.TECH%20BIOTECHNOLOGY%20SGGSWU-purple?style=for-the-badge)
+[CITY](https://img.shields.io/badge/CITY-KHANNA%20CITY%20PUNJAB%20TO%20WORLD-yellow?style=for-the-badge)
+[STATE](https://img.shields.io/badge/STATE-PUNJAB%20INDIA%20GLOBAL%20RESEARCH-purple?style=for-the-badge)
+[LEAD](https://img.shields.io/badge/LEAD-CUM--002%20TRIPLE%20G13D%2BG12D%2BG12V%20TARGET-red?style=for-the-badge)
+[BOX](https://img.shields.io/badge/BOX-%5B4.645%2C-14.532%2C46.621%5D%20REAL%2040BE%205725%20ATOMS-black?style=for-the-badge)
+[PROTOCOL](https://img.shields.io/badge/PROTOCOL-18%20PHASES%20V1%2BV2%2036%20NOTEBOOKS-purple?style=for-the-badge)
+[STATUS](https://img.shields.io/badge/STATUS-36%2F36%20LOCKED%20FOR%20PEER%20REVIEW-yellow?style=for-the-badge)
+[HONEST](https://img.shields.io/badge/HONEST-STUDENT%20LEARNING%20NOT%20CLAIMING%20CURE-black?style=for-the-badge)
+[OPEN TO](https://img.shields.io/badge/OPEN%20TO-LEARNING%20%26%20GUIDANCE-black?style=for-the-badge)
 
 B.Tech Biotechnology 1st Year | SGGSWU, Fatehgarh Sahib | Khanna City, Punjab, India | 100% Phone Build
 
@@ -32,7 +32,7 @@ Pharma spent $2B, 500 scientists, 5 years per drug. Their work is the foundation
 | :--- | :--- |
 | 💰 $2B Investment | 📱 1 Phone - Learning from their work |
 | 👨‍🔬 500 Scientists, Decades Knowledge | 🎓 1 Student, Age 17, Learning Daily |
-| ⏱️ 5 Years Per Drug, Rigorous | 🎓 SGGSWU 1st Year, Inspired by Papers |
+| ⏱️ 5 Years Per Drug, Rigorous | 🎓 1st Year B.Tech Biotechnology, Inspired by Papers |
 | 🏢 Labs, Supercomputers | 💻 Free AI Tools They Inspired |
 
 ### 🚀 THE KHANNA PROTOCOL - 18 PHASES V1+V2 = 36 NOTEBOOKS | GODFATHER FINAL v18.1 - FULL PROFESSIONAL INTRO
@@ -69,7 +69,7 @@ Pharma spent $2B, 500 scientists, 5 years per drug. Their work is the foundation
 
 ### 👨‍🎓 ABOUT ME - WHY WORLD'S RAREST 0.0001%
 
-Karanveer Singh, 17 | B.Tech Biotech 1st Year | SGGSWU Fatehgarh Sahib | Khanna City, Punjab | 100% Phone Build
+Karanveer Singh, 17 | 1st Year B.Tech in Biotechnology | SGGSWU Fatehgarh Sahib | Khanna City, Punjab | 100% Phone Build
 
 > "I am not claiming cure. 17 y/o student learning drug discovery, inspired by Pharma's 100 years. Honest hardwork from Khanna. Seeking guidance and collaboration."
 
