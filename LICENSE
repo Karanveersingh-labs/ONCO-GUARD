@@ -1,7 +1,9 @@
 MIT License
 
 Copyright (c) 2026 Karanveer Singh, SGGSWU, Khanna, Punjab, India
-Project: ONCO-GUARD - KRAS WT 4OBE vs Cuminaldehyde (Computational Study - Student Project)
+Project: ONCO-GUARD - GODFATHER FINAL v18.2 - KRAS WT 4OBE vs Cuminaldehyde (Computational Study - Student Project)
+DOI: 10.5281/zenodo.22711780 | https://doi.org/10.5281/zenodo.22711780
+Built on 100% Mobile Phone | 18 Phases V1+V2 = 36 Notebooks LOCKED | CERN ARCHIVED
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,23 +24,24 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ---
-ADDITIONAL ETHICS CLAUSE - Added by Author for Academic Integrity:
+ADDITIONAL ETHICS CLAUSE - Added by Author for Academic Integrity & WORLD'S RAREST 0.0001% HONESTY:
 
 1. Respect to Pharma: This project is inspired by 100 years of Pharma R&D.
    Investment $2B, 500 scientists, 5 years per drug is the foundation.
-   This is a student learning project, not a replacement.
+   This is a student learning project, not a replacement. JAI SCIENCE | RESPECT TO PHARMA
 
 2. NOT A MEDICINE: Lead CUM-002 -11.2 kcal/mol is computational prediction only.
    PDB ID 4OBE 5725 atoms, Grid Center [4.645, -14.532, 46.621] Size 20
    Reference: Ostrem et al. Nature 2013. No lab test, NOT for human use.
+   Student Learning - NOT Claiming Cure - Honest Hardwork from Khanna.
 
 3. Open Science: 18 Phases V1+V2 = 36 Notebooks built on 100% Mobile Phone +
-   Google Colab, TUMS HPC via BioBricks, ESM2, BioBERT, ColabFold.
+   Google Colab, TUMS HPC via BioBricks, ESW2, BioBERT, ColabFold.
    Complete Roadmap 100% Phone Build Khanna City to World:
    Phase 1_v1/v2 - Target Selection KRAS WT 4OBE Literature 5725 atoms
    Phase 2_v1/v2 - Ligand Library Cuminaldehyde CUM-002 Preparation
    Phase 3_v1/v2 - Protein Preparation Cleaning Protonation ANM Analysis
-   Phase 4_v1/v2 - Binding Site Definition Box [4.645,-14.532,46.621] CYS12
+   Phase 4_v1/v2 - Binding Site Definition Box [4.645, -14.532, 46.621] CYS12
    Phase 5_v1/v2 - Molecular Docking Vina Grid Size 20 -11.2 kcal/mol
    Phase 6_v1/v2 - Interaction Analysis H-Bond Hydrophobic CYS12 GLU62
    Phase 7_v1/v2 - ADMET Prediction SwissADME pkCSM Drug Likeness
@@ -52,17 +55,19 @@ ADDITIONAL ETHICS CLAUSE - Added by Author for Academic Integrity:
    Phase 15_v1/v2 - Cross Validation 100% Reproducibility Check
    Phase 16_v1/v2 - Paper Draft Methods Results Figures
    Phase 17_v1 - 8/8 COMPLETE - Dual G13D G12D - ADMET 50ns MD
-   Phase 17_v2 - 8/8 COMPLETE - Triple G13D G12D G12V - Extended ADMET 100ns MD
-   Phase 18_v1 - 4/4 COMPLETE - Nature Figure Triple 100ns MD 1.85A - Zenodo DOI Paper
-   Phase 18_v2 - 5/5 COMPLETE - Zenodo Package Final DOI - Statistical Comparison
+   Phase 17_v2 - 8/8 COMPLETE - Triple G13D G12D G12V - Extended ADMET 100ns MD -12.5 to -11.6
+   Phase 18_v1 - 4/4 COMPLETE - Nature Figure Triple 100ns MD 1.85A - Zenodo DOI
+   Phase 18_v2 - 5/5 COMPLETE - Zenodo Package Final DOI Statistical Comparison - GODFATHER FINAL v18.2
    For education and open research. Box [4.645,-14.532,46.621] ANM CYS12 0.01070 GLU62 0.16810
 
 4. Seeking Mentorship: Seeking guidance for wet-lab validation from Stanford
    and global labs. Student from Khanna, Punjab, India.
    17 y/o Karanveer Singh, 1st Year B.Tech Biotechnology, SGGSWU Fatehgarh Sahib.
    Built on 100% Mobile Phone - Khanna City to World - No Computer.
+   WORLD'S RAREST 0.0001% YOUNG RESEARCHER ON 100% PHONE
 
-JAI HIND | JAI SCIENCE | RESPECT TO PHARMA
+JAI HIND | JAI SCIENCE | RESPECT TO PHARMA | WORLD RAREST FROM KHANNA
 ---
 Built with love on 100% Mobile Phone in Khanna City, Punjab
 SAT SRI AKAL | WAHEGURU JI KA KHALSA WAHEGURU JI KI FATEH | SARBAT DA BHALA
+CERN ARCHIVED DOI: 10.5281/zenodo.22711780 | GODFATHER FINAL v18.2 LOCKED
