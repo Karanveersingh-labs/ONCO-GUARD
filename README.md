@@ -29,17 +29,22 @@
 
 <p align="left">
 <img src="https://img.shields.io/badge/PHONE_BUILD-46_NOTEBOOKS-000000?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/100%25_PHONE_BUILD-COLAB_%2B_SPCK_APP-000000?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/NO_LAB_NO_LAPTOP-ONLY_PHONE-FF0000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LANG-Python_3.11_%7C_Biopython_%7C_RDKit-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FOCUS-KRAS_G12C_G13D_G12D_G12V-D00000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/HONEST-STUDENT_LEARNING_NOT_CLAIMING_CURE-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/OPEN_TO-GUIDANCE_%26_COLLABORATION-06D6A0?style=for-the-badge" />
 </p>
-Built by Karanveer Singh, 17, 1st Year B.Tech Biotech, SGGSWU, Khanna, Punjab, on Mobile Phone - 46 Notebooks | LATEST DOI: 10.5281/zenodo.22843776 | Concept DOI: 10.5281/zenodo.22711779 | Computational Only - 100% Phone Build
+
+Built by **Karanveer Singh, 17**, 1st Year B.Tech Biotech, SGGSWU, Khanna, Punjab, on Mobile Phone - 46 Notebooks | LATEST DOI: **10.5281/zenodo.22843776** | Concept DOI: **10.5281/zenodo.22711779** | Computational Only - 100% Phone Build
 
 B.Tech Biotechnology 1st Year | SGGSWU, Fatehgarh Sahib | Khanna City, Punjab, India | 100% Phone Build | Computational Only - Pending Lab Validation
 
+---
+
 ### 🎯 SEEKING GUIDANCE - FOR STANFORD PROFESSOR
-Respected Professor, I am Karanveer Singh, 17, 1st year B.Tech Biotechnology from Khanna, Punjab. I built ONCO-GUARD on 100% mobile phone to LEARN drug discovery, inspired by Ostrem 2013 and Shokat Lab. Current computational lead CUM-002: Triple target KRAS-G12C/G13D/G12D/G12V, Vina -12.5 to -11.6, 100ns MD RMSD 1.85A target, MW 512 LogP 3.3. Proof: REAL PDB 408E 5725 atoms COM by Biopython Box [4.645, -14.532, 46.621] ANM CYS12 0.01070 GLU62 0.16810 169 CA. This is NOT a medicine, only a student learning project. I am seeking your guidance for internship and future PhD. Thank you for your 100 years of Pharma research that inspired me.
+Respected Professor, I am **Karanveer Singh, 17**, 1st year B.Tech Biotechnology from Khanna, Punjab. I built ONCO-GUARD on **100% mobile phone** (Phase 1-18: Google Colab on Phone, Phase 19-23: Spck App on Phone) to LEARN drug discovery, inspired by Ostrem 2013 and Shokat Lab. Current computational lead CUM-002: Triple target KRAS-G12C/G13D/G12D/G12V, Vina -12.5 to -11.6, 100ns MD RMSD 1.85A target, MW 512 LogP 3.3. Proof: REAL PDB 408E 5725 atoms COM by Biopython Box [4.645, -14.532, 46.621] ANM CYS12 0.01070 GLU62 0.16810 169 CA. This is **NOT a medicine**, only a student learning project. I am seeking your guidance for internship and future PhD. Thank you for your 100 years of Pharma research that inspired me.
 
 ### 🙏 RESPECT TO PHARMA | INSPIRED BY THEIR 100 YEARS LEGACY
 | Pharma's Great Contribution | My Small Attempt from Khanna - Learning |
@@ -74,23 +79,37 @@ Respected Professor, I am Karanveer Singh, 17, 1st year B.Tech Biotechnology fro
 - 🟣 PHASE 22: MD SIMULATION 100ns STABLE - LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase22.html ✅
 - 🔴 PHASE 23: FINAL PAPER & HUMBLE REQUEST - LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase23.html ✅
 
-### 🧪 CURRENT LEAD: CUM-002 | Computational Only - NOT A MEDICINE
-| Property | Result |
-| :--- | :--- |
-| Binding | 11.2 kcal Vina Box [4.645, -14.532, 46.621] Triple -12.5 to -11.6 TARGET |
-| Stability | RMSD 1.85 A (100ns MD) |
-| Safety | ADMET MW 512 LogP 3.3 BBB No_target hERG Safe_target |
-| Status | Student Project, NOT a Medicine, Seeking Guidance |
+> ### 💻 100% PHONE BUILD - NO LAB, NO LAPTOP - HIGHLIGHT FOR PROFESSOR
+> **Phase 1-18:** Google Colab on Mobile Phone (Khanna, Punjab)  
+> **Phase 19-23:** Spck Editor + 3Dmol.js + GitHub on Mobile Phone  
+> **46 Notebooks | 23 Phases | 100% Phone Build | No Lab, No Laptop - Honest Hardwork**
+
+### 🧪 CURRENT LEAD: CUM-002 | Computational Prediction Only - NOT A MEDICINE
+| Property | Result | Note |
+| :--- | :--- | :--- |
+| Binding | 11.2 kcal Vina (Parent 7.9) Box [4.645, -14.532, 46.621] Triple -12.5 to -11.6 TARGET | In Silico - REAL 408E 5725 atoms COM |
+| Stability | RMSD 1.85 A (100ns MD TARGET) | Computational - Pending Validation |
+| Energy | ΔG -42.5 kcal (FEP) | Needs Experimental Validation |
+| Safety | ADMET MW 512 LogP 3.3 BBB No_target hERG Safe_target | SwissADME + pKCSM - Computational |
+| 3D Model | BLUE CUM-002 @ RED CYS12 LIVE | 3Dmol.js Phone Build |
+| Status | Student Project, NOT a Medicine, Seeking Guidance | CC-BY-4.0 - Honest Learning |
+
+### 👨‍🎓 ABOUT ME
+**Karanveer Singh, 17** | 1st Year B.Tech in Biotechnology | SGGSWU, Fatehgarh Sahib | Khanna City, Punjab | 100% Phone Build | I am not claiming cure. I am a 17 y/o student learning drug discovery, Inspired by Pharma's 100 years and Shokat Lab. I built this on phone in Khanna to learn. I am seeking guidance and mentorship for Stanford internship and PhD dream. Honest hardwork from Khanna.
 
 ### 🚀 FINAL STATUS
-23 PHASES | 46 NOTEBOOKS | PHASE 19-23 LIVE + 3D MODEL | CERN ARCHIVED DOI: 10.5281/zenodo.22843776 | Concept DOI: 10.5281/zenodo.22711779 | BUILT ON 100% PHONE IN KHANNA
+23 PHASES LEARNING JOURNEY | 46 NOTEBOOKS | PHASE 19-23 LIVE + 3D MODEL | SEEKING GUIDANCE FOR INTERNSHIP | CERN ARCHIVED DOI: **10.5281/zenodo.22843776** | Concept DOI: **10.5281/zenodo.22711779** | BUILT ON 100% PHONE IN KHANNA
+
+Built with ❤️ on 100% Mobile Phone in Khanna City, Punjab | JAI HIND | JAI SCIENCE | SAT SRI AKAL
+
+Grateful to Shokat lab 2013, Ostrem et al. 12, UCSF Chimera, ProDy, Biopython - Box [4.645,-14.532,46.621] - Computational only - Pending validation - CC-BY-4.0 - Student Learning Project
 
 ### 📚 How to Cite
-Karanveersingh-labs. (2026). ONCO-GUARD v23.0 FINAL (Version v23.0 FINAL). Zenodo. https://doi.org/10.5281/zenodo.22843776 | Concept: https://doi.org/10.5281/zenodo.22711779
+Karanveersingh-labs. (2026). ONCO-GUARD: Learning Journey - V23.0 FINAL - THE KHANNA PROTOCOL - 100% Phone Build (Version v23.0 FINAL). Zenodo. https://doi.org/10.5281/zenodo.22843776 | Concept: https://doi.org/10.5281/zenodo.22711779
 
-### 🧪 LIVE LINKS FOR PROFESSOR
-19 - https://karanveersingh-labs.github.io/ONCO-GUARD/phase19.html
-20 - https://karanveersingh-labs.github.io/ONCO-GUARD/phase20.html
-21 - https://karanveersingh-labs.github.io/ONCO-GUARD/phase21.html
-22 - https://karanveersingh-labs.github.io/ONCO-GUARD/phase22.html
-23 - https://karanveersingh-labs.github.io/ONCO-GUARD/phase23.html
+### 🧪 LIVE LINKS FOR PROFESSOR - SHOCK PROOF
+19 - 3D Covalent: https://karanveersingh-labs.github.io/ONCO-GUARD/phase19.html
+20 - Comparison: https://karanveersingh-labs.github.io/ONCO-GUARD/phase20.html
+21 - ADMET Radar: https://karanveersingh-labs.github.io/ONCO-GUARD/phase21.html
+22 - MD 100ns: https://karanveersingh-labs.github.io/ONCO-GUARD/phase22.html
+23 - Final Paper: https://karanveersingh-labs.github.io/ONCO-GUARD/phase23.html
