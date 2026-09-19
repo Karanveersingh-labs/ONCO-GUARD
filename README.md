@@ -3,9 +3,8 @@
 > **Scope and limitations:** This is an exploratory, self-directed computational biology learning project. It has not been experimentally validated and should not be interpreted as evidence of drug efficacy, binding affinity, safety, or clinical utility.
 
 ONCO-GUARD is an exploratory, self-directed computational biology project developed during my early undergraduate training. Using KRAS G12C as a case study, it focuses on learning a structural-biology workflow involving protein and ligand preparation, docking, and preliminary molecular-dynamics setup. This project is intended for learning and methodological exploration rather than as a validated biological or clinical claim. The repository documents my workflow and limitations transparently.
-
-- Archived version: 10.5281/zenodo.22843776
-- Concept DOI: 10.5281/zenodo.22711779
+- Archived version: [10.5281/zenodo.22843776](https://doi.org/10.5281/zenodo.22843776)
+- Concept DOI: [10.5281/zenodo.22711779](https://doi.org/10.5281/zenodo.22711779)
 
 ## Current Scope
 
