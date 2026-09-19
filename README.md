@@ -1,81 +1,90 @@
-# 🧬 ONCO-GUARD: An Exploratory Computational Learning Project - Learning Journey
+# ONCO-GUARD
 
-Codename: "The Khanna Protocol" - A personal learning journey named after my hometown Khanna, Punjab. This is a student-led, phone-built computational exploration, not a clinical protocol.
+ONCO-GUARD is an independent, exploratory computational-learning project focused on KRAS-targeted ligand exploration. 
 
-[![AUTHOR](https://img.shields.io/badge/AUTHOR-KARANVEER%20SINGH%20(17)%20KHANNA-blue?style=for-the-badge)](https://github.com/Karanveersingh-labs)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22843776.svg)](https://doi.org/10.5281/zenodo.22843776)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22711779.svg)](https://doi.org/10.5281/zenodo.22711779)
+I am Karanveer Singh, a first-year B.Tech Biotechnology student at SGGSWU, Punjab, India. This repository is a learning record - not a validated drug-discovery program. The results are in silico and hypothesis-generating.
 
-B.Tech Biotechnology 1st Year | SGGSWU, Fatehgarh Sahib | Khanna City, Punjab, India | Contact: singhkaranveer7496@gmail.com | LATEST DOI: [10.5281/zenodo.22843776](https://doi.org/10.5281/zenodo.22843776) (v23.0) | CONCEPT DOI: [10.5281/zenodo.22711779](https://doi.org/10.5281/zenodo.22711779)
+I am sharing the project to request expert feedback on methodology, reproducibility, and next learning steps.
 
-> ⚠️ **IMPORTANT LIMITATION:** This is NOT a medicine, diagnostic tool, or clinical system. All docking scores, MD trajectories, ADMET predictions are computational only (in silico hypothesis-generating) and should not be interpreted as evidence of efficacy or safety. Requires experimental wet-lab validation. This repository documents my self-directed learning.
+### 1. Project Summary
+An exploratory in silico study to learn structure-based drug design workflow: target preparation, ligand design, molecular docking, molecular dynamics, and ADMET predictions. Developed with mobile-first tooling under limited computational resources.
 
-### 🎯 Introduction - Seeking Guidance for Learning
+Internal project codename: "Khanna Protocol." This is not a clinical or pharmaceutical protocol.
 
-I am Karanveer Singh, a first-year B.Tech Biotechnology student at SGGSWU, Fatehgarh Sahib (Khanna, Punjab, India).
+Archived: DOI 10.5281/zenodo.22843776 (v23.0) and 10.5281/zenodo.22711779 (concept). Archive, not peer-reviewed publication.
 
-**What I am learning:** Computational approaches to KRAS-targeted drug discovery and covalent ligand design as part of my self-directed learning in structure-based drug discovery.
+### 2. Research Question
+Can a self-directed, low-resource workflow be used to learn and document the steps of computational oncology (KRAS G12C as a learning example) while maintaining scientific honesty about limitations?
 
-**What this project is:** An exploratory, in-silico project with 46 computational notebooks (currently Phases 1-23). This is not a medicine, clinical tool, diagnostic, or cure. It is a computational learning exercise only.
+### 3. Author and Learning Context
+Author: Karanveer Singh
+First-year B.Tech Biotechnology student, SGGSWU, Punjab, India.
+Project is an independent learning effort conducted with limited hardware, primarily using Google Colab and a mobile phone (46 notebooks).
 
-**Tools & Methods:** Molecular docking (AutoDock Vina), covalent docking concepts, ADMET prediction, and basic Python data analysis. Built on phone due to limited resources.
+### 4. Methods and Software
+- Target preparation: Biopython, PDB structure 408E
+- Docking: AutoDock Vina (Box: [4.645, -14.532, 46.621] as per initial setup)
+- Dynamics: GROMACS concept, basic trajectory analysis
+- ADMET: SwissADME, pKCSM (predictions, not experimental data)
+- Visualization: 3Dmol.js
+- Code environment: Python in Google Colab / Spck Editor
 
-**Limitations:** All results are computational estimates, require wet-lab validation, and are shared as a draft for expert feedback. No biological testing has been done yet.
+### 5. Data and Structures
+- Protein: PDB 408E (KRAS G12C)
+- Ligand library: CUM series - computationally designed molecules (exploratory molecular design)
+- Current illustrative example: CUM-002 - a hypothetical ligand, computationally designed molecule
+- All poses are conceptual models unless stated otherwise.
 
-**What I seek:** Mentorship from groups working in computational oncology and molecular modeling to learn proper methodology and reproducibility.
+### 6. Results - Clearly Labeled Exploratory
+All values below are computational outputs and should not be interpreted as evidence of efficacy, safety, or biological activity.
 
-**Note:** "The Khanna Protocol" is a personal codename for my learning journey, named after my hometown, not a clinical protocol. All data archived as [Zenodo draft, not peer-reviewed validated publication].
+- An exploratory docking estimate was obtained for CUM-002 in the defined Vina box. This is not evidence of a lead compound.
+- The trajectory showed an average ligand/protein RMSD of approximately 1.85 Å under the stated simulation setup; this is not evidence of biological activity or binding affinity.
+- An exploratory free-energy estimate was obtained, but the calculation is not sufficiently validated to support quantitative binding claims.
+- ADMET predictions are in silico predictions with high uncertainty.
+- The Cys12 structure is an illustrative pose and should not be interpreted as experimentally confirmed covalent binding. Actual covalent docking using a validated covalent-docking program was not performed; poses are manually constructed conceptual visualizations near Cys12.
+- Exploratory machine-learning classification on a public cancer dataset was performed. This is not a clinical diagnostic model. Dataset details, train/test split, and evaluation metrics are documented in Phase 09 notebooks.
 
-### 🙏 Acknowledgment: Inspired by Pharma's 100-year legacy
+### 7. Limitations
+- No experimental validation has been performed. Independent experimental validation is required.
+- Calculations are not sufficiently validated to support quantitative claims.
+- Force field, equilibration, replicate simulations, and uncertainty were not fully characterized.
+- Results are hypothesis-generating only.
 
-Pharma industry has 100 years of rigorous work. My work is learning from their published papers and open-source tools.
+### 8. Reproducibility Instructions
+Basic self-checks were performed; independent reproduction has not yet been completed. Notebooks include box coordinates, atom counts (5725 atoms COM), and tool versions where available. Detailed steps are in each phase notebook.
 
-| Pharma's Great Contribution | My Learning Context |
-| :--- | :--- |
-| 💰 $2B Investment | 📱 1 Phone - Learning from their work |
-| 👨‍🔬 500 Scientists, Decades Knowledge | 🎓 1 Student, Age 17, Learning Daily |
-| ⏳ 5 Years per Drug, Rigorous | 📚 1st Year B.Tech Biotechnology, Inspired by Papers |
-| 🏢 Labs, Supercomputers | 💻 Free AI Tools They Inspired - Seeking Guidance |
+### 9. Phase / Notebook Index
+The repository contains 46 notebooks organized into 23 phases, generally with V1 and V2 iterations. Some phases are complete, some exploratory, some illustrative.
 
-### 📚 Learning Journey: 23 Phases of Self-Directed Notes | v23.0 (Personal codename: The Khanna Protocol)
+- PHASE 01-04: Target ID, Docking, Molecular Dynamics, Free Energy (exploratory)
+- PHASE 05-08: Research summary draft, ADMET predictions, Comparison as hypothetical ligand, DNA binding off-target screening (computational)
+- PHASE 09: Exploratory machine-learning classification on a public cancer dataset
+- PHASE 10-14: FEP concept, Optimization, Real docking, Mutation dG shift, Target network / PPI
+- PHASE 15-18: Data compilation dashboard (illustrative), Data verification learning notes, Dual & triple resistance (exploratory analysis), Draft figures
+- PHASE 19-23: Live visualizations: Phase19 3D view, Phase20 summary, Phase21 ADMET predictions, Phase22 MD, Phase23 guidance request - https://karanveersingh-labs.github.io/ONCO-GUARD/
 
-*   PHASE 01: TARGET ID & DRUG DESIGN - V1/V2 | Biopython + PDB 408E | Preliminary computational candidate -7.9 kcal/mol predicted (in-silico)
-*   PHASE 02: DOCKING & VINA SCREEN - V1/V2 | AutoDock Vina Box [4.645, -14.532, 46.621] | CUM library (computational)
-*   PHASE 03: MD SIMULATION - V1/V2 | GROMACS 100ns | RMSD ~2.0 Å (computational estimate, needs validation)
-*   PHASE 04: FREE ENERGY & RESULT - V1/V2 | ΔG calculated (computational estimate, hypothesis-generating)
-*   PHASE 05: RESEARCH SUMMARY & MENTORSHIP DRAFT - V1/V2 | Draft for expert feedback
-*   PHASE 06: ADMET & OPTIMIZATION - V1/V2 | SwissADME + pKCSM | Preliminary in-silico profiling
-*   PHASE 07: COMPARISON & GENERATION - V1/V2 | CUM-002 as preliminary in-silico hypothesis, not as an apparent lead compound
-*   PHASE 08: DNA BINDING & GENOMIC - V1/V2 | Preliminary off-target screening (computational)
-*   PHASE 09: AI CANCER DIAGNOSIS & GENERATIVE AI - V1/V2 | AI performance is dataset specific, needs validation (not 92% claim as final)
-*   PHASE 10: FEP & TUMS HPC - V1/V2 | ΔG -42.5 kcal/mol (computational estimate, needs validation)
-*   PHASE 11: CUM002 OPTIMIZATION & ADMET - V1/V2 | Preliminary computational candidate
-*   PHASE 12: REAL DOCKING & VINA - V1/V2 | Biopython 5725 atoms COM | -11.2 kcal/mol predicted (in-silico)
-*   PHASE 13: MUTATION & ML dG SHIFT - V1/V2 | dG shift predicted (ML, preliminary)
-*   PHASE 14: TARGET NETWORK & PPI - V1/V2 | STRING + NetworkX | KRAS Hub
-*   PHASE 15: DATA COMPILATION & DASHBOARD - V1/V2 | 900+ lines 4-Grid illustrative
-*   PHASE 16: DATA VERIFICATION & LEARNING NOTES - V1/V2 | Box [4.645, -14.532, 46.621] ANM CYS12 0.01070 GLU62 0.16810 | Reproducibility checks completed
-*   PHASE 17: DUAL & TRIPLE RESISTANCE - V1 8/8 + V2 8/8 | Predicted ADMET MW 512 LogP 3.3 MD 1.85Å | Exploratory triple analysis
-*   PHASE 18: DRAFT FIGURE & ZENODO PACKAGE - V1 4/4 + V2 5/5 | Illustrative concept figures for learning
-*   PHASE 19: 3D COVALENT DOCKING @ CYS12 - LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase19.html
-*   PHASE 20: FINAL COMPARISON (Preliminary In-Silico Summary) - LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase20.html
-*   PHASE 21: ADMET & DRUG-LIKENESS (Predicted Profile) - LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase21.html
-*   PHASE 22: MD SIMULATION 100ns (Computational Estimate) - LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase22.html
-*   PHASE 23: LEARNING PAPER & GUIDANCE REQUEST - LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase23.html
+### 10. Request for Feedback
+I am seeking mentorship on: proper methodology, documentation standards, appropriate validation, and how to present exploratory work without overclaiming.
 
-Note: Resource-constrained, self-directed workflow - Built on mobile phone (Google Colab + Spck Editor) in Khanna, Punjab - 46 Notebooks - Phase 1-18: Google Colab on Mobile Phone | Phase 19-23: Spck Editor + 3Dmol.js + GitHub on Mobile Phone
+### 11. Glossary
+- CUM: Computationally designed molecule series used in this learning project
+- CUM-002: One example from CUM series, hypothetical ligand
+- PDB 408E: Protein Data Bank entry for KRAS G12C used as learning example
+- COM: Center of Mass
+- ANM: Anisotropic Network Model
+- FEP: Free Energy Perturbation (exploratory concept in this project)
+- PPI: Protein-Protein Interaction
+- TUMS HPC: Concept reference for high-performance computing, not used directly
+- triple resistance: Exploratory analysis of multiple resistance mutations
+- V1/V2: Version 1 and Version 2 iterations of same phase
 
-### 🧪 Current Computational Candidate of Interest (Preliminary In-Silico Hypothesis) - NOT A MEDICINE
+### References and License
+CC-BY-4.0. Built as honest learning effort. Seeking guidance for future research.
 
-| Property | Result | Note |
-| :--- | :--- | :--- |
-| Binding | -11.2 kcal/mol predicted Vina (Parent -7.9) Box [4.645, -14.532, 46.621] - Range observed in preliminary runs | In Silico - PDB 408E 5725 atoms COM - Requires validation |
-| Stability | RMSD 1.85 Å (100ns MD predicted) | Computational - Pending Validation |
-| Energy | ΔG -42.5 kcal/mol (FEP predicted) | Needs Experimental Validation, hypothesis-generating |
-| Predicted ADMET Profile | SwissADME + pKCSM in-silico predictions - MW 512 LogP 3.3 | Not safety claim - Computational only, archive, not validated |
-| 3D Model | CUM-002 @ CYS12 illustrative | 3Dmol.js Phone Build |
-| Status | Student Project, NOT a Medicine, Seeking Guidance on methodology, reproducibility, and appropriate computational validation | CC-BY-4.0 - Honest Learning - Zenodo archive, not peer-reviewed |
-
-### 🎓 ABOUT ME
-
-Karanveer Singh, 17 | 1st Year B.Tech in Biotechnology | SGGSWU, Fatehgarh Sahib | Khanna City, Punjab, India | This repository documents my self-directed learning in structure-based computational oncology. I am not claiming cure. Seeking guidance and mentorship for learning and future research. Contact: singhkaranveer7496@gmail.com | GitHub: Karanveersingh-labs | DOI: 10.5281/zenodo.22843776
+### 12. Live Links
+- Phase19: https://karanveersingh-labs.github.io/ONCO-GUARD/phase19.html
+- Phase20: https://karanveersingh-labs.github.io/ONCO-GUARD/phase20.html
+- Phase21: https://karanveersingh-labs.github.io/ONCO-GUARD/phase21.html
+- Phase22: https://karanveersingh-labs.github.io/ONCO-GUARD/phase22.html
+- Phase23: https://karanveersingh-labs.github.io/ONCO-GUARD/phase23.html
