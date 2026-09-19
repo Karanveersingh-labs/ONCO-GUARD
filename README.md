@@ -1,88 +1,59 @@
 # ONCO-GUARD
 
-ONCO-GUARD is an independent, exploratory computational-learning project focused on KRAS-targeted ligand exploration. 
+I am Karanveer Singh, a first-year B.Tech Biotechnology student at SGGSWU, Punjab, India. This repository documents an independent, self-directed learning project in computational oncology focused on KRAS G12C. The work is exploratory and intentionally limited to in silico methods, with no experimental validation or clinical claims. My goal is to learn structure-based drug design workflows, improve methodological rigor, and seek expert feedback on reproducibility, documentation, and next steps.
 
-I am Karanveer Singh, a first-year B.Tech Biotechnology student at SGGSWU, Punjab, India. This repository is a learning record - not a validated drug-discovery program. The results are in silico and hypothesis-generating.
+**What problem:** Learning KRAS G12C ligand exploration under low-resource constraints.
+**Why it matters:** To build a reproducible, honest workflow for computational biology as a student.
+**What I learned:** Docking, molecular dynamics, ADMET prediction workflow (see Methods).
+**What I am asking:** Feedback on methodology and documentation.
 
-I am sharing the project to request expert feedback on methodology, reproducibility, and next learning steps.
+Archived: DOI 10.5281/zenodo.22843776 (v23.0) | Concept: 10.5281/zenodo.22711779. Archive, not peer-reviewed publication.
 
 ### 1. Project Summary
-An exploratory in silico study to learn structure-based drug design workflow: target preparation, ligand design, molecular docking, molecular dynamics, and ADMET predictions. Developed with mobile-first tooling under limited computational resources.
+Exploratory in silico study to learn structure-based drug design. Developed with mobile-first tooling (Google Colab on phone, 46 notebooks). Internal codename "Khanna Protocol" - personal note only.
 
-Internal project codename: "Khanna Protocol." This is not a clinical or pharmaceutical protocol.
-
-Archived: DOI 10.5281/zenodo.22843776 (v23.0) and 10.5281/zenodo.22711779 (concept). Archive, not peer-reviewed publication.
-
-### 2. Research Question
-Can a self-directed, low-resource workflow be used to learn and document the steps of computational oncology (KRAS G12C as a learning example) while maintaining scientific honesty about limitations?
-
-### 3. Author and Learning Context
-Author: Karanveer Singh
-First-year B.Tech Biotechnology student, SGGSWU, Punjab, India.
-Project is an independent learning effort conducted with limited hardware, primarily using Google Colab and a mobile phone (46 notebooks).
-
-### 4. Methods and Software
-- Target preparation: Biopython, PDB structure 408E
-- Docking: AutoDock Vina (Box: [4.645, -14.532, 46.621] as per initial setup)
+### 2. Methods and Software
+- Target prep: Biopython, PDB 408E (KRAS G12C)
+- Docking: AutoDock Vina, Box [4.645, -14.532, 46.621]
 - Dynamics: GROMACS concept, basic trajectory analysis
-- ADMET: SwissADME, pKCSM (predictions, not experimental data)
+- ADMET: SwissADME, pKCSM (predictions only)
 - Visualization: 3Dmol.js
-- Code environment: Python in Google Colab / Spck Editor
 
-### 5. Data and Structures
-- Protein: PDB 408E (KRAS G12C)
-- Ligand library: CUM series - computationally designed molecules (exploratory molecular design)
-- Current illustrative example: CUM-002 - a hypothetical ligand, computationally designed molecule
-- All poses are conceptual models unless stated otherwise.
+### 3. Data and Structures
+- Protein: PDB 408E
+- Ligand library: CUM series (computationally designed molecules, exploratory)
+- Example: CUM-002 (hypothetical ligand, illustrative only)
 
-### 6. Results - Clearly Labeled Exploratory
-All values below are computational outputs and should not be interpreted as evidence of efficacy, safety, or biological activity.
+### 4. Results - Exploratory
+Scientific honesty: All values below are computational outputs and should not be interpreted as evidence of efficacy, safety, or biological activity. Results are hypothesis-generating only.
 
-- An exploratory docking estimate was obtained for CUM-002 in the defined Vina box. This is not evidence of a lead compound.
-- The trajectory showed an average ligand/protein RMSD of approximately 1.85 Å under the stated simulation setup; this is not evidence of biological activity or binding affinity.
-- An exploratory free-energy estimate was obtained, but the calculation is not sufficiently validated to support quantitative binding claims.
-- ADMET predictions are in silico predictions with high uncertainty.
-- The Cys12 structure is an illustrative pose and should not be interpreted as experimentally confirmed covalent binding. Actual covalent docking using a validated covalent-docking program was not performed; poses are manually constructed conceptual visualizations near Cys12.
-- Exploratory machine-learning classification on a public cancer dataset was performed. This is not a clinical diagnostic model. Dataset details, train/test split, and evaluation metrics are documented in Phase 09 notebooks.
+- Docking estimate for CUM-002 obtained in defined Vina box.
+- Trajectory showed avg RMSD ~1.85 Å (setup-specific).
+- Free-energy estimate is exploratory, not validated for quantitative claims.
+- ADMET predictions are in silico with high uncertainty.
+- Cys12 pose is illustrative, not experimentally confirmed covalent binding.
+- ML classification on public cancer dataset - not a diagnostic model (see Phase 09 for dataset/split/metrics).
 
-### 7. Limitations
-- No experimental validation has been performed. Independent experimental validation is required.
-- Calculations are not sufficiently validated to support quantitative claims.
-- Force field, equilibration, replicate simulations, and uncertainty were not fully characterized.
-- Results are hypothesis-generating only.
+### 5. Limitations
+No experimental validation. Force field, equilibration, replicates, and uncertainty not fully characterized. Independent validation required.
 
-### 8. Reproducibility Instructions
-Basic self-checks were performed; independent reproduction has not yet been completed. Notebooks include box coordinates, atom counts (5725 atoms COM), and tool versions where available. Detailed steps are in each phase notebook.
+### 6. Reproducibility
+Box coordinates, atom counts (5725 atoms COM), tool versions in notebooks. 46 notebooks in 23 phases (V1/V2 iterations).
 
-### 9. Phase / Notebook Index
-The repository contains 46 notebooks organized into 23 phases, generally with V1 and V2 iterations. Some phases are complete, some exploratory, some illustrative.
+- PHASE 01-04: Target ID, Docking, MD, Free Energy
+- PHASE 05-09: ADMET, hypothetical comparison, off-target screen, ML exploratory
+- PHASE 10-18: FEP concept, optimization, network/PPI, dashboards, verification notes
+- PHASE 19-23: Live 3D visualizations: https://karanveersingh-labs.github.io/ONCO-GUARD/
 
-- PHASE 01-04: Target ID, Docking, Molecular Dynamics, Free Energy (exploratory)
-- PHASE 05-08: Research summary draft, ADMET predictions, Comparison as hypothetical ligand, DNA binding off-target screening (computational)
-- PHASE 09: Exploratory machine-learning classification on a public cancer dataset
-- PHASE 10-14: FEP concept, Optimization, Real docking, Mutation dG shift, Target network / PPI
-- PHASE 15-18: Data compilation dashboard (illustrative), Data verification learning notes, Dual & triple resistance (exploratory analysis), Draft figures
-- PHASE 19-23: Live visualizations: Phase19 3D view, Phase20 summary, Phase21 ADMET predictions, Phase22 MD, Phase23 guidance request - https://karanveersingh-labs.github.io/ONCO-GUARD/
+### 7. Request for Feedback
+Seeking mentorship on methodology, documentation standards, appropriate validation, and presenting exploratory work without overclaiming.
 
-### 10. Request for Feedback
-I am seeking mentorship on: proper methodology, documentation standards, appropriate validation, and how to present exploratory work without overclaiming.
+### 8. Glossary
+CUM: computationally designed molecule series | CUM-002: hypothetical example | COM: Center of Mass | FEP: Free Energy Perturbation (concept) | PPI: Protein-Protein Interaction | V1/V2: iterations
 
-### 11. Glossary
-- CUM: Computationally designed molecule series used in this learning project
-- CUM-002: One example from CUM series, hypothetical ligand
-- PDB 408E: Protein Data Bank entry for KRAS G12C used as learning example
-- COM: Center of Mass
-- ANM: Anisotropic Network Model
-- FEP: Free Energy Perturbation (exploratory concept in this project)
-- PPI: Protein-Protein Interaction
-- TUMS HPC: Concept reference for high-performance computing, not used directly
-- triple resistance: Exploratory analysis of multiple resistance mutations
-- V1/V2: Version 1 and Version 2 iterations of same phase
+License: CC-BY-4.0 | Built as honest learning effort.
 
-### References and License
-CC-BY-4.0. Built as honest learning effort. Seeking guidance for future research.
-
-### 12. Live Links
+### 9. Live Links
 - Phase19: https://karanveersingh-labs.github.io/ONCO-GUARD/phase19.html
 - Phase20: https://karanveersingh-labs.github.io/ONCO-GUARD/phase20.html
 - Phase21: https://karanveersingh-labs.github.io/ONCO-GUARD/phase21.html
