@@ -78,11 +78,15 @@ Respected Professor, I am **Karanveer Singh, 17**, 1st year B.Tech Biotechnology
 - 🟡 PHASE 21: ADMET & DRUG-LIKENESS RARE - LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase21.html ✅
 - 🟣 PHASE 22: MD SIMULATION 100ns STABLE - LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase22.html ✅
 - 🔴 PHASE 23: FINAL PAPER & HUMBLE REQUEST - LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase23.html ✅
-
-> ### 💻 100% PHONE BUILD - NO LAB, NO LAPTOP - HIGHLIGHT FOR PROFESSOR
+> [!IMPORTANT]
+> ### 💻 100% PHONE BUILD - NO LAB, NO LAPTOP
 > **Phase 1-18:** Google Colab on Mobile Phone (Khanna, Punjab)  
 > **Phase 19-23:** Spck Editor + 3Dmol.js + GitHub on Mobile Phone  
-> **46 Notebooks | 23 Phases | 100% Phone Build | No Lab, No Laptop - Honest Hardwork**
+> **46 Notebooks | 23 Phases | 100% Phone Build | Honest Hardwork from Punjab**
+
+> [!CAUTION]
+> **NO LAB, NO LAPTOP, ONLY PHONE - Built Entirely on Phone in Khanna**
+
 
 ### 🧪 CURRENT LEAD: CUM-002 | Computational Prediction Only - NOT A MEDICINE
 | Property | Result | Note |
