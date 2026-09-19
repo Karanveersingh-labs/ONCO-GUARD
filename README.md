@@ -1,15 +1,15 @@
 # ONCO-GUARD
 
-> **Scope and limitations:** ONCO-GUARD is an exploratory, self-directed computational biology learning project. It has not been experimentally validated and should not be interpreted as evidence of drug efficacy, binding affinity, safety, or clinical utility.
+> **Scope and limitations:** This repository documents an exploratory, self-directed learning project. No experimental validation, binding-affinity measurement, or clinical conclusion is claimed. Docking, molecular dynamics preparation, and ADMET estimates are exploratory computational analyses only and should not be interpreted as experimental evidence or therapeutic predictions.
 
-ONCO-GUARD uses KRAS G12C as a case study for learning structural bioinformatics and computational method development. The purpose of this project is to improve my understanding of computational methods and reproducible workflow documentation through exploratory analyses. This project is intended as a learning and method-development exercise rather than as a validated or clinically actionable drug-discovery result.
+This repository documents an exploratory, self-directed learning project in structural bioinformatics and computational biology, using KRAS G12C as a case study. It is intended to support learning, workflow documentation, and method exploration. No experimental validation, binding affinity measurement, or clinical conclusion is claimed. Docking, molecular dynamics preparation, and ADMET estimates are exploratory computational analyses only and should not be interpreted as experimental evidence or therapeutic predictions.
 
 ## What I Built and Learned
 
 - Structural preparation of the 4LUC KRAS G12C-related PDB structure
 - Exploratory molecular-docking workflow using AutoDock Vina
 - Molecular-dynamics system preparation using GROMACS
-- In-silico ADMET predictions using SwissADME and pKCSM were used for computational predictions only; these results are not experimental pharmacokinetic or toxicity measurements.
+- In-silico ADMET predictions using SwissADME and pKCSM were used for computational predictions only; these results are not experimental pharmacokinetic or toxicity measurements
 - Reproducible documentation and workflow organization
 
 ## What Remains Uncertain
@@ -17,14 +17,14 @@ ONCO-GUARD uses KRAS G12C as a case study for learning structural bioinformatics
 - No experimental validation was performed
 - No experimental binding-affinity measurements were performed
 - Docking scores should not be interpreted as measured binding affinity
-- Molecular-dynamics: System preparation completed; no validated production simulation or predictive conclusion is claimed. Results are system- and protocol-dependent.
+- Molecular-dynamics: System preparation completed; no validated production simulation or predictive conclusion is claimed
 - ADMET results are computational predictions only
 - No therapeutic or clinical conclusion is claimed
 
-## Current Scope
+## Exploratory Scope
 
-- **Docking:** AutoDock Vina; box center = (4.645, -14.532, 46.621) Å; box dimensions and exhaustiveness are documented in the workflow files; exploratory only
-- **Molecular dynamics:** Initial system preparation and exploratory analysis; no validated production simulation or predictive conclusion is claimed
+- **Docking:** AutoDock Vina; box center = (4.645, -14.532, 46.621) Å; exploratory only, details in workflow files
+- **Molecular dynamics:** Initial system preparation and exploratory analysis only
 - **Tools:** AutoDock Vina, GROMACS, SwissADME, and pKCSM
 
 ## Selected Workflow Visualizations
@@ -40,6 +40,6 @@ These pages document selected stages of the workflow, from target preparation th
 
 **Author:** Karanveer Singh  
 **Institution:** Sri Guru Granth Sahib World University, Punjab  
-**Purpose:** Self-directed education, reproducibility, and computational method development
+**Purpose:** Self-directed learning in structural bioinformatics and computational workflow development - a learning portfolio and reproducibility exercise
 
 **License:** CC BY 4.0
