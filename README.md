@@ -1,27 +1,27 @@
 # ONCO-GUARD
 
-**Status: Exploratory learning project. The analyses are not experimentally validated and are not intended for clinical, therapeutic, or drug-development decisions.**
+> **Scope and limitations:** ONCO-GUARD is an independent exploratory computational biology project. The analyses are not experimentally validated and are not intended for clinical, therapeutic, or drug-development decisions.
 
-ONCO-GUARD is an independent computational biology learning project by Karanveer Singh, a first-year B.Tech. Biotechnology student at Sri Guru Granth Sahib World University (SGGSWU), Punjab.
+ONCO-GUARD is an independent project by Karanveer Singh, a first-year B.Tech. Biotechnology student at Sri Guru Granth Sahib World University (SGGSWU), Punjab.
 
-The project explores an exploratory in silico workflow related to KRAS G12C, including structure preparation, docking, initial molecular dynamics setup, and exploratory free-energy analysis attempts.
+The project explores an in silico workflow related to KRAS G12C, including structure preparation, docking, initial molecular dynamics setup, and exploratory free-energy analysis attempts.
 
-This repository should not be interpreted as a validated drug-discovery study. The results should not be used to support clinical or therapeutic conclusions.
+The repository documents the workflow, intermediate analyses, limitations, and incomplete stages.
 
-- Archived release: 10.5281/zenodo.22843776
+- Archived version: 10.5281/zenodo.22843776
 - Concept DOI: 10.5281/zenodo.22711779
 
 ## Current Scope
 
-PDB ID 4LUC was used as the structural starting point for an exploratory workflow related to KRAS G12C. Documentation of ligand identity and preparation is provided in the structure-preparation notebook.
+PDB structure 4LUC was used as the structural starting point for an exploratory workflow related to KRAS G12C. Through this project, I practiced reproducible workflow design, structural preparation, molecular dynamics analysis, and critical interpretation of computational outputs.
 
-- **Exploratory docking:** AutoDock Vina; center = [4.645, -14.532, 46.621] Å. Box size, exhaustiveness, and preparation details are documented in the notebook.
-- **Molecular dynamics:** Initial system setup and trajectory analysis. In one setup-specific analysis, the selected atoms showed an average RMSD of approximately 1.85 Å over the analyzed trajectory window (atom selection, reference frame, and analysis interval are documented in the notebook). This value is not presented as a general stability conclusion.
+- **Exploratory docking:** AutoDock Vina; center = [4.645, -14.532, 46.621] Å. Box size, exhaustiveness, and preparation documented in notebook.
+- **Molecular dynamics:** Initial system setup and exploratory trajectory analysis. In one setup-specific analysis, the selected atoms showed an average RMSD of approximately 1.85 Å over the analyzed trajectory window. This is a descriptive, setup-specific value, not evidence of biological stability. Atom selection, alignment, and analysis interval are documented in the linked notebook.
 - **Prediction-based analyses:** SwissADME and pKCSM estimates are included as computational predictions only.
 - **Tools:** AutoDock Vina, GROMACS, SwissADME, and pKCSM.
 - **Languages:** Python, Bash, and Jupyter.
 
-The repository contains 46 notebooks covering 23 documented phases. Some phases contain multiple notebooks or V1/V2 iterations reflecting exploratory analyses, initial implementations, and incomplete or nonvalidated stages.
+The repository contains 46 notebooks covering 23 exploratory workflow stages. Some stages contain multiple notebooks or V1/V2 iterations reflecting exploratory analyses, initial implementations, and incomplete or nonvalidated stages.
 
 ## Phases 01-23
 
@@ -29,12 +29,12 @@ The repository contains 46 notebooks covering 23 documented phases. Some phases 
 - **Phases 19-23:** Interactive 3D visualizations.
     - [Phase 19 - Target](https://karanveersingh-labs.github.io/ONCO-GUARD/phase19.html)
     - [Phase 20 - Docking](https://karanveersingh-labs.github.io/ONCO-GUARD/phase20.html)
-    - [Phase 21 - Dynamics trajectory](https://karanveersingh-labs.github.io/ONCO-GUARD/phase21.html) - exploratory; notebook records current status if not generated
+    - [Phase 21 - Dynamics trajectory](https://karanveersingh-labs.github.io/ONCO-GUARD/phase21.html)
     - [Phase 22 - Interaction](https://karanveersingh-labs.github.io/ONCO-GUARD/phase22.html)
     - [Phase 23 - Complex](https://karanveersingh-labs.github.io/ONCO-GUARD/phase23.html)
 
 ## Research Interests
 
-I am interested in computational biology, molecular simulation, and how computational predictions are validated and in receiving feedback from researchers working in computational biology.
+I am interested in computational biology, molecular simulation, and the validation of computational predictions. I welcome feedback from researchers working in these areas.
 
 **License:** CC BY 4.0
