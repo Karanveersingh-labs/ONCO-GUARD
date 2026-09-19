@@ -1,15 +1,15 @@
 # ONCO-GUARD
 
-> **Scope and limitations:** This repository documents an exploratory, self-directed learning project. No experimental validation, binding-affinity measurement, or clinical conclusion is claimed. Docking, molecular dynamics preparation, and ADMET estimates are exploratory computational analyses only and should not be interpreted as experimental evidence or therapeutic predictions.
+> **Scope and limitations:** This repository documents an exploratory, self-directed learning project in structural bioinformatics and computational biology, using KRAS G12C as a case study. The goal is to build familiarity with structural preparation, docking, and molecular dynamics workflows, and to document reproducible methods for educational and research-development purposes. No experimental validation, binding-affinity measurement, or clinical conclusion is claimed.
 
-This repository documents an exploratory, self-directed learning project in structural bioinformatics and computational biology, using KRAS G12C as a case study. It is intended to support learning, workflow documentation, and method exploration. No experimental validation, binding affinity measurement, or clinical conclusion is claimed. Docking, molecular dynamics preparation, and ADMET estimates are exploratory computational analyses only and should not be interpreted as experimental evidence or therapeutic predictions.
+This project is intended to improve technical fluency and reproducible workflow development, not to generate a drug-discovery or clinical conclusion.
 
-## What I Built and Learned
+## What I Explored and Implemented
 
 - Structural preparation of the 4LUC KRAS G12C-related PDB structure
 - Exploratory molecular-docking workflow using AutoDock Vina
 - Molecular-dynamics system preparation using GROMACS
-- In-silico ADMET predictions using SwissADME and pKCSM were used for computational predictions only; these results are not experimental pharmacokinetic or toxicity measurements
+- ADMET properties were estimated computationally using SwissADME and pKCSM only; these are prediction-based inferences, not experimental pharmacokinetic or toxicity measurements
 - Reproducible documentation and workflow organization
 
 ## What Remains Uncertain
@@ -18,12 +18,11 @@ This repository documents an exploratory, self-directed learning project in stru
 - No experimental binding-affinity measurements were performed
 - Docking scores should not be interpreted as measured binding affinity
 - Molecular-dynamics: System preparation completed; no validated production simulation or predictive conclusion is claimed
-- ADMET results are computational predictions only
 - No therapeutic or clinical conclusion is claimed
 
 ## Exploratory Scope
 
-- **Docking:** AutoDock Vina; box center = (4.645, -14.532, 46.621) Å; exploratory only, details in workflow files
+- **Docking:** AutoDock Vina; box center = (4.645, -14.532, 46.621) Å; exploratory only
 - **Molecular dynamics:** Initial system preparation and exploratory analysis only
 - **Tools:** AutoDock Vina, GROMACS, SwissADME, and pKCSM
 
