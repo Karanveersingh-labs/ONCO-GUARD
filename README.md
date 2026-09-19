@@ -6,13 +6,13 @@ DOI: 10.5281/zenodo.22711780
 
 Built by 17 y/o Karanveer Singh, Khanna City, Punjab, on 100% MOBILE PHONE - 36 NOTEBOOKS LOCKED | DOI: 10.5281/zenodo.22711780
 
-![AGE](https://img.shields.io/badge/AGE-17%20YEARS%20OLD%20LEARNER-yellow?style=for-the-badge) ![WORLD](https://img.shields.io/badge/WORLD-0.0001%25%20RAREST%20YOUNG%20RESEARCHER-black?style=for-the-badge)
-![BUILT](https://img.shields.io/badge/BUILT%20ON-100%25%20MOBILE%20PHONE%20NO%20LAB-lightgrey?style=for-the-badge) ![NAME](https://img.shields.io/badge/NAME-KARANVEER%20SINGH-red?style=for-the-badge)
-![UNIVERSITY](https://img.shields.io/badge/UNIVERSITY-1ST%20YEAR%20B.TECH%20BIOTECH%20SGGSWU-yellow?style=for-the-badge) ![CITY](https://img.shields.io/badge/CITY-KHANNA%20CITY%20PUNJAB%20TO%20WORLD-red?style=for-the-badge)
-![STATE](https://img.shields.io/badge/STATE-PUNJAB%20INDIA%20GLOBAL%20RESEARCH-lightgrey?style=for-the-badge) ![LEAD](https://img.shields.io/badge/LEAD-CUM--002%20TRIPLE%20TARGET-red?style=for-the-badge)
-![BOX](https://img.shields.io/badge/BOX-REAL%204O8E%205725%20ATOMS%20COM-lightgrey?style=for-the-badge) ![PROTOCOL](https://img.shields.io/badge/PROTOCOL-18%20PHASES%20V1%2BV2%2036%20NOTEBOOKS-purple?style=for-the-badge)
-![STATUS](https://img.shields.io/badge/STATUS-36%2F36%20LOCKED%20%2B%20CERN%20DOI%2022711780-lightgrey?style=for-the-badge) ![HONEST](https://img.shields.io/badge/HONEST-STUDENT%20LEARNING%20NOT%20CLAIMING%20CURE-black?style=for-the-badge)
-![OPEN](https://img.shields.io/badge/OPEN%20TO-LEARNING%20%26%20GUIDANCE-brightgreen?style=for-the-badge)
+![AGE](https://img.shields.io/badge/AGE-17%20YEARS%20OLD%20LEARNER-yellow?style=flat-square) ![WORLD](https://img.shields.io/badge/WORLD-0.0001%25%20RAREST%20YOUNG%20RESEARCHER-black?style=flat-square)
+![BUILT ON](https://img.shields.io/badge/BUILT%20ON-100%25%20MOBILE%20PHONE%20NO%20LAB-555555?style=flat-square) ![NAME](https://img.shields.io/badge/NAME-KARANVEER%20SINGH-critical?style=flat-square)
+![UNIVERSITY](https://img.shields.io/badge/UNIVERSITY-1ST%20YEAR%20B.TECH%20BIOTECH%20SGGSWU-yellow?style=flat-square) ![CITY](https://img.shields.io/badge/CITY-KHANNA%20CITY%20PUNJAB%20TO%20WORLD-red?style=flat-square)
+![STATE](https://img.shields.io/badge/STATE-PUNJAB%20INDIA%20GLOBAL%20RESEARCH-lightgrey?style=flat-square) ![LEAD](https://img.shields.io/badge/LEAD-CUM--002%20TRIPLE%20TARGET-red?style=flat-square)
+![BOX](https://img.shields.io/badge/BOX-REAL%204O8E%205725%20ATOMS%20COM-lightgrey?style=flat-square) ![PROTOCOL](https://img.shields.io/badge/PROTOCOL-18%20PHASES%20V1%2BV2%2036%20NOTEBOOKS-9C27B0?style=flat-square)
+![STATUS](https://img.shields.io/badge/STATUS-36%2F36%20LOCKED%20%2B%20CERN%20DOI%2022711780-555555?style=flat-square) ![HONEST](https://img.shields.io/badge/HONEST-STUDENT%20LEARNING%20NOT%20CLAIMING%20CURE-black?style=flat-square)
+![OPEN TO](https://img.shields.io/badge/OPEN%20TO-LEARNING%20%26%20GUIDANCE-brightgreen?style=flat-square)
 
 B.Tech Biotechnology 1st Year | SGGSWU, Fatehgarh Sahib | Khanna City, Punjab, India | 100% Phone Build
 
@@ -62,7 +62,6 @@ Pharma spent $2B, 500 scientists, 5 years per drug. Their work is the foundation
 | Energy | ΔG -42.5 kcal (FEP) | Needs Experimental Validation |
 | Safety | ADMET MW 512 LogP 3.3 BBB No_target hERG Safe_target | SwissADME + pKCSM - TARGET |
 | Figures | Figure1 Triple bar + Figure2 100ns MD + Figure3 Improvement - dpi 300 | Publication Ready - Computational Only |
-| 3D Model | Blue CUM-002 @ CYS12 RED covalent @ [4.645,-14.532,46.621] LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase19.html | 3Dmol.js Phone Build |
 | Status | Student Project, NOT a Medicine | Seeking Guidance - CC-BY-4.0 |
 
 👨‍🎓 ABOUT ME - WHY WORLD'S RAREST 0.0001%
