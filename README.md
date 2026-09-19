@@ -1,54 +1,50 @@
 # ONCO-GUARD
 
-I am Karanveer Singh, a first-year B.Tech. Biotechnology student at Sri Guru Granth Sahib World University (SGGSWU), Punjab. I developed ONCO-GUARD as an independent learning project to explore reproducible computational workflows related to KRAS G12C ligand analysis using limited computational resources.
+**Status: Exploratory learning project; not experimentally validated and not intended for clinical, therapeutic, or drug-development decisions.**
 
-This is an exploratory learning project, not a validated drug-discovery study. It should not be used to support clinical or therapeutic conclusions.
+ONCO-GUARD is an independent computational biology learning project by Karanveer Singh, a first-year B.Tech. Biotechnology student at Sri Guru Ganth Sahib World University (SGGSWU), Punjab.
 
-- [Archived Zenodo release](https://doi.org/10.5281/zenodo.22843776)
-- [Concept DOI](https://doi.org/10.5281/zenodo.22711779)
-- [Project portfolio](https://karanveersingh-labs.github.io/ONCO-GUARD/)
+The project explores an end-to-end, in silico workflow related to KRAS G12C, including exploratory free-energy analysis attempts, an introductory FEP workflow attempt, initial molecular-dynamics setup and trajectory analysis, and in silico ADMET predictions. This is an exploratory learning project, not a validated drug-discovery study.
 
-### 1. What I Learned
-This project is a series of exploratory workflow attempts covering preliminary docking, initial GROMACS setup and trajectory analysis, conceptual free-energy analysis, prediction-based ADMET screening, and a machine-learning exercise using a public dataset.
+- Archived release: [10.5281/zenodo.22843776](https://doi.org/10.5281/zenodo.22843776)
+- Concept DOI: [10.5281/zenodo.22711779](https://doi.org/10.5281/zenodo.22711779)
+- Portfolio: [https://karanveersingh-labs.github.io/ONCO-GUARD/](https://karanveersingh-labs.github.io/ONCO-GUARD/)
 
-### 2. Current Scope
-PDB ID 4LUC is used as the structural starting point for an exploratory KRAS G12C-related workflow; the target identity, construct, ligand state, and preparation decisions are documented in the structure-preparation notebook.
+### What was learned
+A series of exploratory workflow attempts documenting structure preparation, preliminary docking comparison, and prediction-based screening. The repository explicitly documents unsuccessful and incomplete attempts as learning records.
 
-- **Docking:** Exploratory AutoDock Vina workflow, center = [4.645, -14.532, 46.621] Å. Box size, exhaustiveness, protein/ligand preparation, and scoring limitations are documented in the relevant notebook.
-- **Dynamics:** Initial GROMACS setup and trajectory analysis.
-- **Analysis:** A setup-specific exploratory RMSD estimate of approximately 1.85 Å was obtained; the atom selection, reference frame, trajectory window, and reproducibility limitations are documented in the analysis notebook.
-- **In silico estimation:** Prediction-based ADMET screening (SwissADME, pKCSM).
+### Current Scope
+PDB ID 4LUC was used as the structural starting point for an exploratory workflow related to KRAS G12C. The repository documents the structure's identity, construct, ligand state, and preparation decisions. This avoids implying that every analysis necessarily represents biologically relevant KRAS G12C behavior.
 
-The repository contains 46 notebooks documenting iterative attempts, including unsuccessful or incomplete stages. V1/V2 labels indicate learning iterations rather than independent validated experiments.
+- **Docking:** Exploratory AutoDock Vina workflow attempt, center = [4.645, -14.532, 46.621] Å. Box size, exhaustiveness, preparation, and scoring limitations are documented in the notebook.
+- **Dynamics:** Initial molecular-dynamics setup and trajectory analysis.
+- **RMSD:** In one setup-specific trajectory analysis, the selected atoms showed an average RMSD of approximately 1.85 Å over the analyzed trajectory window. This value is not presented as evidence of biological stability and depends on the atom selection, reference frame, equilibration, and simulation setup. Details are documented in the linked analysis notebook.
+- **Free energy:** Exploratory free-energy analysis attempts.
 
-### 3. Limitations
-No experimental validation. Limited computational resources, incomplete force-field and equilibration assessment, lack of independent replicates, uncertainty in docking scores and in silico estimates, and incomplete statistical characterization.
+The repository contains 46 notebooks documenting iterative attempts (V1/V2). V1/V2 labels indicate learning iterations rather than independent validated experiments.
 
-Results are best viewed as a record of independent learning and as a starting point for expert feedback on rigor, reproducibility, and validation.
+### Limitations
+No experimental validation. Limited computational resources, incomplete equilibration assessment, lack of independent replicates, uncertainty in docking scores and in silico predictions, and incomplete statistical characterization. Results are best viewed as a record of independent learning.
 
-### 4. Project Organization
+### Phases 01-18: Iterative Attempts
+- Phases 01-18: Core and exploratory work including target identification, preliminary docking comparison, initial molecular-dynamics setup and trajectory analysis, conceptual free-energy analysis attempts, prediction-based ADMET screening, and machine-learning exercise using a public dataset (V1, V2).
 
-**Phases 01-18: Iterative attempts (V1/V2)**
-- PHASE 01: Target identification and structure preparation
-- PHASE 02: Preliminary docking comparison
-- PHASE 03: Initial GROMACS setup and trajectory analysis
-- PHASE 04: Conceptual free-energy analysis
-- PHASE 05: Prediction-based ADMET screening
-- PHASE 06: Comparative analysis of reference compounds
-- PHASE 07: Exploratory off-target screening
-- PHASE 08: Exploratory protein-interaction analysis
-- PHASE 09: Machine-learning exercise using a public dataset
-- PHASE 10: Conceptual FEP analysis
-- PHASE 11-18: Quality checks and documentation
-
-**Phase 19-23: Interactive 3D Visualizations**
+### Phases 19-23: Interactive 3D Visualizations
 - [Phase 19 - Target structure](https://karanveersingh-labs.github.io/ONCO-GUARD/phase19.html)
 - [Phase 20 - Docking pose](https://karanveersingh-labs.github.io/ONCO-GUARD/phase20.html)
-- [Phase 21 - Dynamics trajectory](https://karanveersingh-labs.github.io/ONCO-GUARD/phase21.html) - if not generated, marked as not currently available in notebook
+- [Phase 21 - Dynamics trajectory](https://karanveersingh-labs.github.io/ONCO-GUARD/phase21.html) - exploratory; currently unavailable/not generated; notebook records its current status.
 - [Phase 22 - Interaction visualization](https://karanveersingh-labs.github.io/ONCO-GUARD/phase22.html)
 - [Phase 23 - Complex visualization](https://karanveersingh-labs.github.io/ONCO-GUARD/phase23.html)
 
-### 5. What I Hope to Learn Next
-I am hoping to learn how experienced researchers assess computational validity, choose appropriate controls, and decide when a result is strong enough to justify further investigation. I would especially value feedback on the rigor and reproducibility of this workflow.
+### Reproducibility
+The repository contains notebooks and documentation for the exploratory workflows.
+- Main tools: AutoDock Vina, GROMACS, SwissADME, pKCSM
+- Programming languages: Python, Bash, Jupyter
+- Environment: Google Colab with limited resources
+- Raw input and output files are included where feasible
+- Software versions and box coordinates are documented in notebooks
+
+### Research Interests
+I am particularly interested in learning how computational predictions are validated, what controls are appropriate for docking and dynamics workflows, and how to document uncertainty for reproducibility. I would value feedback on rigor and how this learning connects to ongoing KRAS research and am seeking mentorship for an internship.
 
 License: CC-BY-4.0
