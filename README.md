@@ -2,15 +2,17 @@
 
 ### 🚀 THE KHANNA PROTOCOL - Learning Journey v23.0 | 100% Phone Build | Seeking Stanford Guidance
 
-![AUTHOR](https://img.shields.io/badge/AUTHOR-KARANVEER_SINGH_(17)_KHANNA-blue) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22843776.svg)](https://doi.org/10.5281/zenodo.22843776) [![CONCEPT_DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22711779.svg)](https://doi.org/10.5281/zenodo.22711779) ![CERN](https://img.shields.io/badge/CERN-ARCHIVED-blue) ![STATUS](https://img.shields.io/badge/STATUS-STUDENT_PROJECT_LEARNING-green) ![AGE](https://img.shields.io/badge/AGE-17_YEARS_OLD_LEARNER-yellow) ![LEARNING](https://img.shields.io/badge/LEARNING-BIOTECH_STUDENT_SEEKING_MENTORSHIP-orange) ![LOCATION](https://img.shields.io/badge/LOCATION-KHANNA_PUNJAB_INDIA-green) ![UNIVERSITY](https://img.shields.io/badge/UNIVERSITY-1ST_YEAR_B.TECH_BIOTECH_SGGSWU-yellow) ![GOAL](https://img.shields.io/badge/GOAL-STANFORD_INTERNSHIP_&_PHD_ASPIRANT-blue) ![LEAD](https://img.shields.io/badge/LEAD-CUM--002_COMPUTATIONAL_ONLY-orange) ![BOX](https://img.shields.io/badge/BOX-PDB_408E_5725_ATOMS_COM-blue) ![PROTOCOL](https://img.shields.io/badge/PROTOCOL-23_PHASES_LEARNING_JOURNEY-purple) ![PHONE](https://img.shields.io/badge/PHONE_BUILD-46_NOTEBOOKS-blue) ![BUILD](https://img.shields.io/badge/100%25_PHONE_BUILD-COLAB_%2B_SPCK_APP-orange) ![NO_LAB](https://img.shields.io/badge/NO_LAB_NO_LAPTOP-ONLY_PHONE-red) ![LANG](https://img.shields.io/badge/LANG-PYTHON_3.11_|_BIOPYTHON_|_RDKIT-blue) ![FOCUS](https://img.shields.io/badge/FOCUS-KRAS_G12C_G12D_G12V-green) ![HONEST](https://img.shields.io/badge/HONEST-STUDENT_LEARNING_NOT_CLAIMING_CURE-green) ![OPEN](https://img.shields.io/badge/OPEN_TO-GUIDANCE_&_COLLABORATION-blue)
+[AUTHOR](https://img.shields.io/badge/AUTHOR-KARANVEER_SINGH_(17)_KHANNA-blue) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22843776.svg)](https://doi.org/10.5281/zenodo.22843776) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22711779.svg)](https://doi.org/10.5281/zenodo.22711779) [CERN](https://img.shields.io/badge/CERN-ARCHIVED-blue) [STATUS](https://img.shields.io/badge/STATUS-STUDENT_PROJECT_LEARNING-green) [AGE](https://img.shields.io/badge/AGE-17_YEARS_OLD_LEARNER-yellow) [LEARNING](https://img.shields.io/badge/LEARNING-BIOTECH_STUDENT_SEEKING_MENTORSHIP-orange) [LOCATION](https://img.shields.io/badge/LOCATION-KHANNA_PUNJAB_INDIA-green) [UNIVERSITY](https://img.shields.io/badge/UNIVERSITY-1ST_YEAR_B.TECH_BIOTECH_SGGSWU-yellow) [GOAL](https://img.shields.io/badge/GOAL-STANFORD_INTERNSHIP_&_PHD_ASPIRANT-blue) [LEAD](https://img.shields.io/badge/LEAD-CUM--002_COMPUTATIONAL_ONLY-orange) [BOX](https://img.shields.io/badge/BOX-PDB_408E_5725_ATOMS_COM-blue) [PROTOCOL](https://img.shields.io/badge/PROTOCOL-23_PHASES_LEARNING_JOURNEY-purple) [PHONE](https://img.shields.io/badge/PHONE_BUILD-46_NOTEBOOKS-blue) [BUILD](https://img.shields.io/badge/100%25_PHONE_BUILD-COLAB_%2B_SPCK_APP-orange) [NO_LAB](https://img.shields.io/badge/NO_LAB_NO_LAPTOP-ONLY_PHONE-red) [LANG](https://img.shields.io/badge/LANG-PYTHON_3.11_|_BIOPYTHON_|_RDKIT-blue) [FOCUS](https://img.shields.io/badge/FOCUS-KRAS_G12C_G12D_G12V-green) [HONEST](https://img.shields.io/badge/HONEST-STUDENT_LEARNING_NOT_CLAIMING_CURE-green) [OPEN](https://img.shields.io/badge/OPEN_TO-GUIDANCE_&_COLLABORATION-blue)
 
-Built by Karanveer Singh, 17, 1st Year B.Tech Biotech, SGGSWU, Khanna, Punjab, on Mobile Phone - 46 Notebooks | **LATEST DOI:** [10.5281/zenodo.22843776](https://doi.org/10.5281/zenodo.22843776) | **Concept DOI:** [10.5281/zenodo.22711779](https://doi.org/10.5281/zenodo.22711779) | **Direct:** [zenodo.org/records/22843776](https://zenodo.org/records/22843776) | Computational Only - 100% Phone Build | AI-Assisted Learning Journey
+> **⚠️ IMPORTANT LIMITATION:** This is NOT a medicine, diagnostic tool, or clinical system. All docking scores, MD trajectories, ADMET predictions are computational only and should not be interpreted as evidence of efficacy or safety. Requires experimental validation.
+
+Built by Karanveer Singh, 17, 1st Year B.Tech Biotech, SGGSWU, Khanna, Punjab, on Mobile Phone - 46 Notebooks | **LATEST DOI:** [10.5281/zenodo.22843776](https://doi.org/10.5281/zenodo.22843776) (v23.0) | **CONCEPT DOI:** [10.5281/zenodo.22711779](https://doi.org/10.5281/zenodo.22711779) (All Versions) | **Direct:** [zenodo.org/records/22843776](https://zenodo.org/records/22843776) | Computational Only - 100% Phone Build | AI-Assisted Learning Journey
 
 B.Tech Biotechnology 1st Year | SGGSWU, Fatehgarh Sahib | Khanna City, Punjab, India | 100% Phone Build | Computational Only - Pending Validation | Contact: singhkaranveer7496@gmail.com
 
 ### 🎯 SEEKING GUIDANCE - FOR STANFORD PROFESSOR
 
-Respected Professor, I am Karanveer Singh, 17, 1st year B.Tech Biotechnology from Khanna, Punjab. I built ONCO-GUARD on 100% mobile phone (Phase 1-18: Google Colab on Mobile, Phase 19-23: Spck App on Mobile) to LEARN drug discovery. Inspired by Ostrem 2013 and Shokat Lab. Current computational lead CUM-002: Triple target KRAS-G12C/12D/12V, Vina -12.5 to -11.6, 100ns MD RMSD 1.85A target, MW 512 LogP 3.3. Proof. REAL PDB 408E 5725 atoms COM by Biopython Box [4.645, -14.532, 46.621] ANM CYS12 0.01070 GLU62 0.16810 169 CA. This is NOT a medicine, only a student learning project. I used AI as Teacher/Brother to learn rigorous methods (AI-Assisted Learning - Future of Drug Discovery). I am seeking your guidance for internship and future PhD. Thank you for your 100 years of Pharma research that inspired me.
+Respected Professor, I am Karanveer Singh, 17, 1st year B.Tech Biotechnology from Khanna, Punjab. I built ONCO-GUARD on 100% mobile phone (Phase 1-18: Google Colab on Mobile, Phase 19-23: Spck App on Mobile) to LEARN drug discovery. Inspired by Ostrem 2013 and Shokat Lab. Current computational candidate CUM-002: Exploratory analysis for KRAS-G12C/12D/12V, predicted Vina -12.5 to -11.6 kcal/mol, 100ns MD RMSD 1.85Å target, MW 512 LogP 3.3. Proof. PDB 408E 5725 atoms COM by Biopython Box [4.645, -14.532, 46.621] ANM CYS12 0.01070 GLU62 0.16810 169 CA. This is NOT a medicine, only a student learning project. I used AI as Teacher/Brother to learn rigorous methods (AI-Assisted Learning - Future of Drug Discovery). I am seeking your guidance for internship and future PhD. Thank you for your 100 years of Pharma research that inspired me.
 
 ### 🙏 RESPECT TO PHARMA | INSPIRED BY THEIR 100 YEARS LEGACY
 
@@ -23,28 +25,28 @@ Respected Professor, I am Karanveer Singh, 17, 1st year B.Tech Biotechnology fro
 
 ### 🚀 THE KHANNA PROTOCOL - 23 PHASES LEARNING JOURNEY | v23.0
 
-*   🔴 PHASE 01: TARGET ID & DRUG DESIGN - V1/V2 | Biopython + PDB 408E | Parent 7.9 kcal
+*   🔴 PHASE 01: TARGET ID & DRUG DESIGN - V1/V2 | Biopython + PDB 408E | Parent -7.9 kcal/mol predicted
 *   🔵 PHASE 02: DOCKING & VINA SCREEN - V1/V2 | AutoDock Vina Box [4.645, -14.532, 46.621] | CUM library ✅
-*   🟡 PHASE 03: MD SIMULATION - V1/V2 | GROMACS 100ns | RMSD <2.0 A ✅
-*   🔴 PHASE 04: FREE ENERGY & RESULT - V1/V2 | ΔG calculated ✅
+*   🟡 PHASE 03: MD SIMULATION - V1/V2 | GROMACS 100ns | RMSD <2.0 Å ✅
+*   🔴 PHASE 04: FREE ENERGY & RESULT - V1/V2 | ΔG calculated (computational) ✅
 *   🔵 PHASE 05: STANFORD PITCH & PUBLICATION - V1/V2 | Pitch ready ✅
-*   🟡 PHASE 06: ADMET & OPTIMIZATION - V1/V2 | SwissADME + pKCSM | 4/4 PASS
-*   🔴 PHASE 07: COMPARISON & GENERATION - V1/V2 | CUM-002 superior ✅
-*   🟢 PHASE 08: DNA BINDING & GENOMIC - V1/V2 | No off-target ✅
-*   🔵 PHASE 09: AI CANCER DIAGNOSIS & GENERATIVE AI - V1/V2 | AI 92% ✅
-*   🟡 PHASE 10: FEP & TUMS HPC - V1/V2 | ΔG -42.5 ✅
-*   🔴 PHASE 11: CUM002 OPTIMIZATION & ADMET - V1/V2 | Computational Lead ✅
-*   🔵 PHASE 12: REAL DOCKING & VINA - V1/V2 | Biopython 5725 atoms COM | 11.2 kcal ✅
-*   🟣 PHASE 13: MUTATION & ML dG SHIFT - V1/V2 | dG shift predicted ✅
+*   🟡 PHASE 06: ADMET & OPTIMIZATION - V1/V2 | SwissADME + pKCSM | Preliminary in-silico profiling
+*   🔴 PHASE 07: COMPARISON & GENERATION - V1/V2 | CUM-002 candidate for further study ✅
+*   🟢 PHASE 08: DNA BINDING & GENOMIC - V1/V2 | Preliminary off-target screening ✅
+*   🔵 PHASE 09: AI CANCER DIAGNOSIS & GENERATIVE AI - V1/V2 | AI 92% (dataset specific) ✅
+*   🟡 PHASE 10: FEP & TUMS HPC - V1/V2 | ΔG -42.5 kcal/mol (computational estimate) ✅
+*   🔴 PHASE 11: CUM002 OPTIMIZATION & ADMET - V1/V2 | Computational candidate ✅
+*   🔵 PHASE 12: REAL DOCKING & VINA - V1/V2 | Biopython 5725 atoms COM | -11.2 kcal/mol predicted ✅
+*   🟣 PHASE 13: MUTATION & ML dG SHIFT - V1/V2 | dG shift predicted (ML) ✅
 *   🟣 PHASE 14: TARGET NETWORK & PPI - V1/V2 | STRING + NetworkX | KRAS Hub 4.0 ✅
 *   🏆 PHASE 15: DATA COMPILATION & DASHBOARD - V1/V2 | 900+ lines 4-Grid LIVE ✅
 *   🔵 PHASE 16: DATA VERIFICATION & LEARNING NOTES - V1/V2 | Box [4.645, -14.532, 46.621] ANM CYS12 0.01070 GLU62 0.16810 169 CA | VERIFIED ✅
-*   🟣 PHASE 17: DUAL & TRIPLE RESISTANCE - V1 8/8 + V2 8/8 | ADMET MW 512 LogP 3.3 MD 1.85A | TRIPLE TARGET ✅
-*   🔴 PHASE 18: NATURE FIGURE & ZENODO PACKAGE - V1 4/4 + V2 5/5 | Figure1 Triple -12.5 to -11.6 Figure2 100ns 1.85A ✅
+*   🟣 PHASE 17: DUAL & TRIPLE RESISTANCE - V1 8/8 + V2 8/8 | ADMET MW 512 LogP 3.3 MD 1.85Å | Exploratory triple analysis ✅
+*   🔴 PHASE 18: NATURE FIGURE & ZENODO PACKAGE - V1 4/4 + V2 5/5 | Figure1 Triple -12.5 to -11.6 Figure2 100ns 1.85Å ✅
 *   🔵 PHASE 19: 3D COVALENT DOCKING @ CYS12 - LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase19.html ✅
-*   🔵 PHASE 20: FINAL COMPARISON 25% BETTER - LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase20.html ✅
+*   🔵 PHASE 20: FINAL COMPARISON - LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase20.html ✅
 *   🟡 PHASE 21: ADMET & DRUG-LIKENESS - LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase21.html ✅
-*   🟣 PHASE 22: MD SIMULATION 100ns STABLE - LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase22.html ✅
+*   🟣 PHASE 22: MD SIMULATION 100ns - LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase22.html ✅
 *   🔵 PHASE 23: LEARNING PAPER & GUIDANCE REQUEST - LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase23.html ✅
 
 Important 📌 100% PHONE BUILD - NO LAB, NO LAPTOP Phase 1-18: Google Colab on Mobile Phone (Khanna, Punjab) Phase 19-23: Spck Editor + 3Dmol.js + GitHub on Mobile Phone 46 Notebooks | 23 Phases | 100% Phone Build | Honest Hardwork from Punjab | AI as Teacher/Brother - AI-Assisted Learning
@@ -55,10 +57,10 @@ Caution NO LAB, NO LAPTOP, ONLY PHONE - Built Entirely on Phone in Khanna - AI-N
 
 | Property | Result | Note |
 |---|---|---|
-| Binding | 11.2 kcal Vina (Parent 7.9) Box [4.645, -14.532, 46.621] Triple -12.5 to -11.6 TARGET | In Silico - REAL 408E 5725 atoms COM |
-| Stability | RMSD 1.85 A (100ns MD TARGET) | Computational - Pending Validation |
-| Energy | ΔG -42.5 kcal (FEP) | Needs Experimental Validation |
-| Safety | ADMET MW 512 LogP 3.3 BBB No_target hERG Safe_target | SwissADME + pKCSM - Computational |
+| Binding | -11.2 kcal/mol predicted Vina (Parent -7.9) Box [4.645, -14.532, 46.621] Triple -12.5 to -11.6 kcal/mol predicted | In Silico - PDB 408E 5725 atoms COM - Requires validation |
+| Stability | RMSD 1.85 Å (100ns MD predicted) | Computational - Pending Validation |
+| Energy | ΔG -42.5 kcal/mol (FEP predicted) | Needs Experimental Validation |
+| Safety | ADMET: SwissADME + pKCSM in-silico predictions - MW 512 LogP 3.3 - Requires validation | Not safety claim - Computational only |
 | 3D Model | BLUE CUM-002 @ RED CYS12 LIVE | 3Dmol.js Phone Build |
 | Status | Student Project, NOT a Medicine, Seeking Guidance | CC-BY-4.0 - Honest Learning |
 
