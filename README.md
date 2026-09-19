@@ -2,13 +2,14 @@
 ### THE KHANNA PROTOCOL - Learning Journey v23.0 FINAL | 100% Phone Build | Seeking Stanford Guidance
 
 <p align="left">
+<img src="https://img.shields.io/badge/Author-Karanveer_Singh_(17)_KHANNA-000000?style=for-the-badge&logo=github&logoColor=white" />
 <a href="https://doi.org/10.5281/zenodo.22843776"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22843776-0B3D91?style=for-the-badge&logo=zenodo&logoColor=white" /></a>
 <a href="https://zenodo.org/records/22843776"><img src="https://img.shields.io/badge/CERN-ARCHIVED-0033A0?style=for-the-badge&logo=cern&logoColor=white" /></a>
 <a href="https://doi.org/10.5281/zenodo.22711779"><img src="https://img.shields.io/badge/Concept_DOI-22711779-168aad?style=for-the-badge" /></a>
-<img src="https://img.shields.io/badge/STATUS-STUDENT_PROJECT_LEARNING-00A6ED?style=for-the-badge" />
 </p>
 
 <p align="left">
+<img src="https://img.shields.io/badge/STATUS-STUDENT_PROJECT_LEARNING-00A6ED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AGE-17_YEARS_OLD_LEARNER-FFC300?style=flat-square" />
 <img src="https://img.shields.io/badge/LEARNING-BIOTECH_STUDENT_SEEKING_MENTORSHIP-lightgrey?style=flat-square" />
 <img src="https://img.shields.io/badge/BUILT_ON-100%25_MOBILE_PHONE_NO_LAB-black?style=flat-square" />
@@ -33,7 +34,6 @@
 <img src="https://img.shields.io/badge/HONEST-STUDENT_LEARNING_NOT_CLAIMING_CURE-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/OPEN_TO-GUIDANCE_%26_COLLABORATION-06D6A0?style=for-the-badge" />
 </p>
-
 Built by Karanveer Singh, 17, 1st Year B.Tech Biotech, SGGSWU, Khanna, Punjab, on Mobile Phone - 46 Notebooks | LATEST DOI: 10.5281/zenodo.22843776 | Concept DOI: 10.5281/zenodo.22711779 | Computational Only - 100% Phone Build
 
 B.Tech Biotechnology 1st Year | SGGSWU, Fatehgarh Sahib | Khanna City, Punjab, India | 100% Phone Build | Computational Only - Pending Lab Validation
