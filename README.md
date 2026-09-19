@@ -5,7 +5,7 @@
 ![AUTHOR](https://img.shields.io/badge/AUTHOR-KARANVEER%20SINGH%20(17)%20KHANNA-blue)
 DOI](https://img.shields.io/badge/DOI-10.5281%2FZENODO.22843776-blue)
 ![CERN](https://img.shields.io/badge/CERN-ARCHIVED-lightblue)
-![CONCEPT](https://img.shields.io/badge/CONCEPT_DOI-22711779
+[CONCEPT_DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22711779.svg)](https://doi.org/10.5281/zenodo.22711779) [![CONCEPT
 ![STATUS](https://img.shields.io/badge/STATUS-STUDENT%20PROJECT%20LEARNING-green)
 ![AGE](https://img.shields.io/badge/AGE-17%20YEARS%20OLD%20LEARNER-yellow)
 ![LEARNING](https://img.shields.io/badge/LEARNING-BIOTECH%20STUDENT%20SEEKING%20MENTORSHIP-purple)
