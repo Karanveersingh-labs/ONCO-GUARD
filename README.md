@@ -1,12 +1,15 @@
 # 🧬 ONCO-GUARD: An Exploratory Computational Learning Project - Learning Journey
 
 ### Codename: "The Khanna Protocol" - A personal learning journey named after my hometown Khanna, Punjab. This is a student-led, phone-built computational exploration, not a clinical protocol.
-
-[![LATEST DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22843776.svg)](https://doi.org/10.5281/zenodo.22843776)
-[![CONCEPT DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22711779.svg)](https://doi.org/10.5281/zenodo.22711779)
-![STATUS](https://img.shields.io/badge/STATUS-Student_Learning_Project-green)
-![BUILD](https://img.shields.io/badge/BUILD-46_Notebooks_Phone_Built-blue)
-![LOCATION](https://img.shields.io/badge/LOCATION-Khanna_Punjab_India-orange)
+[AUTHOR](https://img.shields.io/badge/AUTHOR-KARANVEER_SINGH_(17)_KHANNA-blue)
+[DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.22843776-lightblue)
+[STATUS](https://img.shields.io/badge/STATUS-Student_Learning_Project-green)
+[AGE](https://img.shields.io/badge/AGE-17_Years_Old_Learner-yellow)
+[LOCATION](https://img.shields.io/badge/LOCATION-Khanna_Punjab_India-orange)
+[UNIVERSITY](https://img.shields.io/badge/UNIVERSITY-1ST_YEAR_B.TECH_BIOTECH_SGGSWU-purple)
+[BUILD](https://img.shields.io/badge/BUILD-46_Notebooks_Phone_Built-blue)
+[FOCUS](https://img.shields.io/badge/FOCUS-KRAS_G12C_G12D_G12V_Learning-red)
+[HONEST](https://img.shields.io/badge/HONEST-Computational_Only_Not_Cure-brightgreen)
 
 B.Tech Biotechnology 1st Year | SGGSWU, Fatehgarh Sahib | Khanna City, Punjab, India | Computational Only - Pending Validation | Contact: singhkaranveer7496@gmail.com
 
