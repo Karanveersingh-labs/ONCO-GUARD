@@ -1,17 +1,17 @@
-![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22711780-007EC6?style=for-the-badge)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22711780-007EC6?style=for-the-badge)](https://doi.org/10.5281/zenodo.22711780)
 
 # 🧬 ONCO-GUARD: CANCER AI DRUG DISCOVERY
 
-### 🔥 THE KHANNA PROTOCOL - GODFATHER FINAL v18.2 | WORLD'S RAREST 0.0001% | CERN ARCHIVED
+### 🔥 THE KHANNA PROTOCOL - GODFATHER FINAL v23.0 | WORLD'S RAREST 0.0001% | CERN ARCHIVED
 
-Built by 17 y/o Karanveer Singh, Khanna City, Punjab, on 100% MOBILE PHONE - 36 NOTEBOOKS LOCKED | DOI: 10.5281/zenodo.22711780
+Built by 17 y/o Karanveer Singh, Khanna City, Punjab, on 100% MOBILE PHONE - 46 NOTEBOOKS LOCKED | DOI: 10.5281/zenodo.22711780
 
 ![AGE](https://img.shields.io/badge/AGE-17%20YEARS%20OLD%20LEARNER-yellow?style=for-the-badge) ![WORLD](https://img.shields.io/badge/WORLD-0.0001%25%20RAREST%20YOUNG%20RESEARCHER-black?style=for-the-badge)
 ![BUILT ON](https://img.shields.io/badge/BUILT%20ON-100%25%20MOBILE%20PHONE%20NO%20LAB-555555?style=for-the-badge) ![NAME](https://img.shields.io/badge/NAME-KARANVEER%20SINGH-e05d44?style=for-the-badge)
 ![UNIVERSITY](https://img.shields.io/badge/UNIVERSITY-1ST%20YEAR%20B.TECH%20BIOTECH%20SGGSWU-yellow?style=for-the-badge) ![CITY](https://img.shields.io/badge/CITY-KHANNA%20CITY%20PUNJAB%20TO%20WORLD-red?style=for-the-badge)
 ![STATE](https://img.shields.io/badge/STATE-PUNJAB%20INDIA%20GLOBAL%20RESEARCH-lightgrey?style=for-the-badge) ![LEAD](https://img.shields.io/badge/LEAD-CUM--002%20TRIPLE%20TARGET-red?style=for-the-badge)
-![BOX](https://img.shields.io/badge/BOX-REAL%204O8E%205725%20ATOMS%20COM-brightgreen?style=for-the-badge) ![PROTOCOL](https://img.shields.io/badge/PROTOCOL-18%20PHASES%20V1%2BV2%2036%20NOTEBOOKS-9C27B0?style=for-the-badge)
-![STATUS](https://img.shields.io/badge/STATUS-36%2F36%20LOCKED%20%2B%20CERN%20DOI%2022711780-555555?style=for-the-badge) ![HONEST](https://img.shields.io/badge/HONEST-STUDENT%20LEARNING%20NOT%20CLAIMING%20CURE-black?style=for-the-badge)
+![BOX](https://img.shields.io/badge/BOX-REAL%204O8E%205725%20ATOMS%20COM-brightgreen?style=for-the-badge) ![PROTOCOL](https://img.shields.io/badge/PROTOCOL-23%20PHASES%20V1%2BV2%2046%20NOTEBOOKS-9C27B0?style=for-the-badge)
+![STATUS](https://img.shields.io/badge/STATUS-46%2F46%20LOCKED%20%2B%20CERN%20DOI%2022711780-555555?style=for-the-badge) ![HONEST](https://img.shields.io/badge/HONEST-STUDENT%20LEARNING%20NOT%20CLAIMING%20CURE-black?style=for-the-badge)
 ![OPEN TO](https://img.shields.io/badge/OPEN%20TO-LEARNING%20%26%20GUIDANCE-brightgreen?style=for-the-badge)
 
 B.Tech Biotechnology 1st Year | SGGSWU, Fatehgarh Sahib | Khanna City, Punjab, India | 100% Phone Build
@@ -29,7 +29,7 @@ Pharma spent $2B, 500 scientists, 5 years per drug. Their work is the foundation
 | ⏳ 5 Years Per Drug, Rigorous | 📚 1st Year B.Tech Biotechnology, Inspired by Papers |
 | 🖥️ Labs, Supercomputers | 💻 Free AI Tools They Inspired |
 
-### 🚀 THE KHANNA PROTOCOL - 18 PHASES V1+V2 = 36 NOTEBOOKS | GODFATHER FINAL v18.2 - FULL PROFESSIONAL INTRO
+### 🚀 THE KHANNA PROTOCOL - 23 PHASES V1+V2 = 46 NOTEBOOKS | GODFATHER FINAL v23.0 - FULL PROFESSIONAL INTRO
 - 🟡 PHASE 01: TARGET ID & DRUG DESIGN - V1: Phase01_v1_THE_KHANNA_PROTOCOL_Khanna_City_Target_ID_StanfordReady | V2: Phase01_v2_THE_KHANNA_PROTOCOL_Khanna_City_Drug_Design_StanfordReady | Objective: Identify KRAS-G12C target, design coumarin scaffold | Tool: Biopython + PDB 4O8E | Result: Parent 7.9 kcal ✅
 - 🔵 PHASE 02: DOCKING & VINA SCREEN - V1: Phase02_v1_THE_KHANNA_PROTOCOL_Khanna_City_Docking_StanfordReady | V2: Phase02_v2_THE_KHANNA_PROTOCOL_Khanna_City_Vina_Screen_StanfordReady | Tool: AutoDock Vina Box [4.645, -14.532, 46.621] | Result: CUM library generated ✅
 - 🟢 PHASE 03: MD SIMULATION - V1: Phase03_v1_THE_KHANNA_PROTOCOL_Khanna_City_MD_Simulation_StanfordReady | V2: Phase03_v2_THE_KHANNA_PROTOCOL_Khanna_City_MD_Heating_StanfordReady | Tool: GROMACS 100ns | Result: RMSD <2.0 A ✅
@@ -61,23 +61,24 @@ Pharma spent $2B, 500 scientists, 5 years per drug. Their work is the foundation
 | Energy | ΔG -42.5 kcal (FEP) | Needs Experimental Validation |
 | Safety | ADMET MW 512 LogP 3.3 BBB No_target hERG Safe_target | SwissADME + pKCSM - TARGET |
 | Figures | Figure1 Triple bar + Figure2 100ns MD + Figure3 Improvement - dpi 300 | Publication Ready - Computational Only |
+| 3D Model | Blue CUM-002 @ CYS12 RED covalent @ [4.645,-14.532,46.621] LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase19.html | 3Dmol.js Phone Build |
 | Status | Student Project, NOT a Medicine | Seeking Guidance - CC-BY-4.0 |
 
 ### 👨‍🎓 ABOUT ME - WHY WORLD'S RAREST 0.0001%
 Karanveer Singh, 17 | 1st Year B.Tech in Biotechnology | SGGSWU, Fatehgarh Sahib | Khanna City, Punjab | 100% Phone Build
 "I am not claiming cure. 17 y/o student learning drug discovery, Inspired by Pharma's 100 years. Honest hardwork from Khanna. Seeking guidance and collaboration."
 
-### 🚀 FINAL STATUS: 18 PHASES V1+V2 36 NOTEBOOKS | 36/36 LOCKED | PHASE 18 v1+v2 NATURE FIGURE + DOI PACKAGE LOCKED | PHASE 19-23 LIVE + 3D MODEL LOCKED | PORTFOLIO LOCKED FOR PEER REVIEW | WORLD'S RAREST 17 Y/O FROM KHANNA ON 100% PHONE HARDWORK | KHANNA CITY TO WORLD | CERN ARCHIVED DOI: 10.5281/zenodo.22711780
+### 🚀 FINAL STATUS: 23 PHASES V1+V2 46 NOTEBOOKS | 46/46 LOCKED | PHASE 18 v1+v2 NATURE FIGURE + DOI PACKAGE LOCKED | PHASE 19-23 LIVE + 3D MODEL LOCKED | PORTFOLIO LOCKED FOR PEER REVIEW | WORLD'S RAREST 17 Y/O FROM KHANNA ON 100% PHONE HARDWORK | KHANNA CITY TO WORLD | CERN ARCHIVED DOI: 10.5281/zenodo.22711780
 
 Built with on 100% Mobile Phone in Khanna City, Punjab | JAI HIND | JAI SCIENCE | SAT SRI AKAL
 Grateful to Shokat lab 2013, Ostrem et al. 12, UCSF Chimera, ProDy, Biopython - Box [4.645,-14.532,46.621] - Computational only - Pending validation - CC-BY-4.0
 
 ### 📚 How to Cite
-Karanveersingh-labs. (2026). ONCO-GUARD: GODFATHER FINAL LOCKED - V18.2 - THE KHANNA PROTOCOL (Version v18.2.GODFATHER.FINAL.PHONE-BUILD) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22711780
+Karanveersingh-labs. (2026). ONCO-GUARD: GODFATHER FINAL LOCKED - V23.0 - THE KHANNA PROTOCOL (Version v23.0.GODFATHER.FINAL.PHONE-BUILD) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22711780
 
 ### 🧪 3D MODEL LIVE LINKS FOR STANFORD PROFESSOR - SHOCK PROOF:
-19 - https://karanveersingh-labs.github.io/ONCO-GUARD/phase19.html
-20 - https://karanveersingh-labs.github.io/ONCO-GUARD/phase20.html
-21 - https://karanveersingh-labs.github.io/ONCO-GUARD/phase21.html
-22 - https://karanveersingh-labs.github.io/ONCO-GUARD/phase22.html
-23 - https://karanveersingh-labs.github.io/ONCO-GUARD/phase23.html
+19 - 3D Covalent: https://karanveersingh-labs.github.io/ONCO-GUARD/phase19.html
+20 - Comparison: https://karanveersingh-labs.github.io/ONCO-GUARD/phase20.html
+21 - ADMET Radar: https://karanveersingh-labs.github.io/ONCO-GUARD/phase21.html
+22 - MD 100ns: https://karanveersingh-labs.github.io/ONCO-GUARD/phase22.html
+23 - Final Paper: https://karanveersingh-labs.github.io/ONCO-GUARD/phase23.html
