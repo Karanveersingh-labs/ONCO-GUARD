@@ -1,9 +1,10 @@
 MIT License
 
-Copyright (c) 2026 Karanveer Singh, SGGSWU, Khanna, Punjab, India
-Project: ONCO-GUARD - GODFATHER FINAL v23.0 - KRAS WT 4O8E vs Cuminaldehyde (Computational Study - Student Project)
+Copyright (c) 2026 Karanveer Singh, SGGSMI, Khanna, Punjab, India
+Project: ONCO-GUARD - GODFATHER FINAL v23.0 - KRAS WT 408E vs Cuminaldehyde
+(Computational Study - Student Project - AI-Assisted Learning Journey)
 DOI: 10.5281/zenodo.22711780 | https://doi.org/10.5281/zenodo.22711780
-Built on 100% Mobile Phone, 23 Phases V1+V2 = 46 Notebooks LOCKED | CERN ARCHIVED
+Built on 100% Mobile Phone, 23 Phases V1-V2 = 46 Notebooks LOCKED | CERN ARCHIVED
 Lead: CUM-002 - Computational Prediction Only - NOT A MEDICINE
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -25,42 +26,33 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ---
-ADDITIONAL ETHICS CLAUSE - Added by Author for Academic Integrity & HUMBLE LEARNING:
+ADDITIONAL ETHICS CLAUSE - Added by Author for Academic Integrity & Humble Learning:
 
-1. Respect to Pharma: This project is inspired by 100 years of Pharma R&D. Investment $2B, 500 scientists, 5 years per drug is the foundation. This is a student learning project, not a replacement. JAI SCIENCE | RESPECT TO PHARMA | Seeking Guidance.
+1. Respect to Pharma: This project is inspired by 100 years of Pharma R&D.
+Investment $2B, 500 scientists, 5 years per drug is the foundation.
+This is a student learning project, not a replacement. JAI SCIENCE | RESPECT TO PHARMA.
 
-2. NOT A MEDICINE: Lead CUM-002 -11.2 kcal/mol is computational prediction only. PDB ID 4O8E 5725 atoms, Grid Center [4.645, -14.532, 46.621] Size 20. Reference: Ostrem et al. Nature 2013. Not lab tested, NOT for human use. Student Learning - NOT Claiming Cure - Honest Hardwork from Khanna - Seeking Validation.
+2. NOT A MEDICINE: Lead CUM-002 -11.2 kcal/mol is computational prediction only.
+PDB ID 408E 5725 atoms, Grid Center [4.645, -14.532, 46.621] Size 20.
+Reference: Ostrem et al. Nature 2013. Not lab tested, NOT for human use.
+Student Learning - NOT Claiming Cure.
 
-3. Open Science: 23 Phases V1+V2 = 46 Notebooks built on 100% Mobile Phone - Google Colab, TUMS HPC via BioBricks, ESW2, BioBERT, ColabFold. Complete Roadmap 100% Phone Build Khanna City to World:
-Phase 1_v1/v2 - Target Selection KRAS WT 4O8E Literature 5725 atoms
-Phase 2_v1/v2 - Ligand Library Cuminaldehyde CUM-002 Preparation
-Phase 3_v1/v2 - Protein Preparation Cleaning Protonation ANM Analysis
-Phase 4_v1/v2 - Binding Site Definition Box [4.645, -14.532, 46.621] CYS12
-Phase 5_v1/v2 - Molecular Docking Vina Grid Size 20 -11.2 kcal/mol
-Phase 6_v1/v2 - Interaction Analysis H-Bond Hydrophobic CYS12 GLU62
-Phase 7_v1/v2 - ADMET Prediction SwissADME pkCSM Drug Likeness
-Phase 8_v1/v2 - MD Setup 50ns NPT NVT Equilibration RMSD
-Phase 9_v1/v2 - MD Analysis RMSF Rg H-Bond MMGBSA
-Phase 10_v1/v2 - Mutant KRAS G12D G13D Comparison Docking
-Phase 11_v1/v2 - Enhanced Sampling ANM CYS12 0.01070 GLU62 0.16810
-Phase 12_v1/v2 - ESW2 BioBERT AI Validation Embedding
-Phase 13_v1/v2 - ColabFold AlphaFold Structure Validation
-Phase 14_v1/v2 - Lead Optimization CUM-002 Derivatives
-Phase 15_v1/v2 - Cross Validation 100% Reproducibility Check
-Phase 16_v1/v2 - Paper Draft Methods Results Figures - Real Proof Humble Computational Box [4.645, -14.532, 46.621] ANM CYS12 0.01070 GLU62 0.16810 169 CA
-Phase 17_v1/v2 - 8/8 COMPLETE - Dual G13D G12D - ADMET 50ns MD - 8/8 COMPLETE Triple G13D G12D G12V - Extended ADMET 100ns MD -12.5 to -11.6
-Phase 18_v1/v2 - 4/4 COMPLETE - Nature Figure Triple 100ns MD 1.85A - Zenodo DOI / 5/5 COMPLETE - Zenodo Package Final DOI Statistical Comparison - GODFATHER FINAL v18.2 to v23.0
-Phase 19_v1 - 3D Covalent Docking @ CYS12 LIVE 3D Model - 3Dmol.js Box [4.645, -14.532, 46.621] - LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase19.html
-Phase 20_v1 - Final Comparison 25% Better - Bar Chart - LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase20.html
-Phase 21_v1 - ADMET & Drug-likeness RARE - Radar Chart - SwissADME pkCSM 5/5 PASS - LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase21.html
-Phase 22_v1 - MD Simulation 100ns Stable - GROMACS 100ns RMSD 1.2 - LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase22.html
-Phase 23_v1 - Final Paper & Humble Request - Built Entirely On Phone - LIVE: https://karanveersingh-labs.github.io/ONCO-GUARD/phase23.html
-For education and open research. Box [4.645, -14.532, 46.621] ANM CYS12 0.01070 GLU62 0.16810 - Computational Only - Pending Validation - CC-BY-4.0
+3. Open Science & AI Learning: 23 Phases V1+V2 = 46 Notebooks built on 100% Mobile Phone.
+Author is 1st year B.Tech Biotechnology student from Khanna, Punjab.
+Used AI as Teacher/Brother to learn (AI-Assisted Learning, Future of Science).
+Built Entirely on Phone in Khanna - Google Colab, Spck Editor, GitHub.
+Open for education and open research. CC-BY-4.0.
 
-4. Seeking Mentorship: Seeking guidance for wet-lab validation from Stanford and global labs. Student from Khanna, Punjab, India. 17 y/o Karanveer Singh, 1st Year B.Tech Biotechnology, SGGSWU Fatehgarh Sahib. Built on 100% Mobile Phone - Khanna City to World - No Computer. Aspiring for Stanford Internship & PhD. HONEST STUDENT LEARNING, NOT CLAIMING CURE.
+4. Seeking Mentorship: Seeking guidance for wet-lab validation from Stanford and
+global labs. Student from Khanna, Punjab, India. 17 y/o Karanveer Singh,
+1st Year B.Tech Biotechnology, SGGSMI Fatehgarh Sahib.
+Built on 100% Mobile Phone - Khanna City to world - No Computer.
+Aspiring for Stanford Internship & PhD. HONEST STUDENT LEARNING, NOT CLAIMING CURE.
+AI-Native Learner - Future of Drug Discovery.
 
-JAI HIND | JAI SCIENCE | RESPECT TO PHARMA | HUMBLE LEARNER FROM KHANNA SEEKING GUIDANCE
----
+JAI HIND | JAI SCIENCE | RESPECT TO PHARMA | HUMBLE AI LEARNER FROM KHANNA
+
 Built with love on 100% Mobile Phone in Khanna City, Punjab
 SAT SRI AKAL | WAHEGURU JI KA KHALSA WAHEGURU JI KI FATEH | SARBAT DA BHALA
-CERN ARCHIVED DOI: 10.5281/zenodo.22711780 | GODFATHER FINAL v23.0 LOCKED | 23 PHASES V1+V2 46 NOTEBOOKS
+CERN ARCHIVED DOI: 10.5281/zenodo.22711780 | GODFATHER FINAL v23.0 LOCKED
+Contact: singhkaranveer7496@gmail.com | GitHub: Karanveersingh-labs
