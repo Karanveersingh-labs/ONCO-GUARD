@@ -37,8 +37,10 @@ These pages document selected stages of the workflow, from target preparation th
 - Archived version: [10.5281/zenodo.22843776](https://doi.org/10.5281/zenodo.22843776)
 - Concept DOI: [10.5281/zenodo.22711779](https://doi.org/10.5281/zenodo.22711779)
 
-**Author:** Karanveer Singh  
-**Institution:** Sri Guru Granth Sahib World University, Punjab  
-**Purpose:** Self-directed learning in structural bioinformatics and computational workflow development - a learning portfolio and reproducibility exercise
+**Author:** Karanveer Singh
+**Institution:** Sri Guru Granth Sahib World University, Punjab (1st Year B.Tech Biotechnology)
+**Purpose:** Self-directed learning in structural bioinformatics - a learning portfolio and reproducibility exercise - 100% built on mobile phone in Khanna
 
-**License:** CC BY 4.0
+**License:** MIT License (Code). Documentation: CC BY 4.0 unless otherwise noted.
+
+**Disclaimer:** This is an independent exploratory learning project by Karanveer Singh. It is NOT an official Stanford University project, laboratory result, or professor-sponsored research. Not a drug discovery or clinical claim. No experimental validation - computational predictions only.
