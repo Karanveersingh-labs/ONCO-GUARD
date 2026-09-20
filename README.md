@@ -1,13 +1,12 @@
 # ONCO-GUARD | Computational Exploration of KRAS G12C
 
-Onco-Guard is a self-directed educational project exploring KRAS G12C through structural bioinformatics and computational biology workflows. The goal is to build practical experience in structural preparation, docking workflows, molecular dynamics setup, and reproducible analysis. This work is exploratory and intended for learning and method development, it does not constitute experimental validation, therapeutic claims, or clinical conclusions.
+ONCO-GUARD is an independent educational project focused on KRAS G12C using structural bioinformatics, docking workflows, and molecular dynamics preparation. The goal is to build hands-on experience in computational drug discovery workflows and to explore how structural and physicochemical features may inform further study. This project is exploratory and does not claim experimental validation or therapeutic conclusions.
 
-This project was designed to build practical experience in structural bioinformatics, docking workflows, MD preparation, and reproducible analysis. I am seeking feedback and mentorship to improve the rigor of the workflow and expand my understanding of computational cancer biology.
+This project was designed to build practical experience in structural bioinformatics, docking workflows, MD preparation, and reproducible analysis. I am seeking feedback from experts in structural bioinformatics and translational oncology to improve workflow and interpretation.
 
 **Project by:** Karanveer Singh
 **Affiliation:** Sri Guru Granth Sahib World University, 1st Year B.Tech Biotechnology
 **GitHub:** Karanveersingh-labs
-**Status:** Educational computational biology project
 
 ### What This Project Explores and Implements
 - Structural preparation of KRAS G12C structure from PDB ID 4OBE, Chain A (retrieved from RCSB PDB)
@@ -20,7 +19,7 @@ This project was designed to build practical experience in structural bioinforma
 - No experimental validation was performed
 - No experimental binding-affinity measurements were performed
 - Docking scores should not be interpreted as measured binding affinity
-- Molecular-dynamics: System preparation completed; no validated production simulation is claimed
+- Molecular dynamics: System preparation completed; no validated production simulation is claimed
 - No therapeutic or clinical conclusion is claimed
 
 ### Exploratory Scope
@@ -38,5 +37,3 @@ This project was designed to build practical experience in structural bioinforma
 - Concept DOI: [10.5281/zenodo.22711779](https://doi.org/10.5281/zenodo.22711779)
 
 License: MIT License
-
-**Note:** 100% built on mobile phone in Khanna. Educational portfolio only.
