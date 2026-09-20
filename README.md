@@ -1,11 +1,9 @@
-# ONCO-GUARD | Computational Exploration of KRAS G12C
+# ONCO-GUARD | Self-Directed Computational Study of KRAS G12C Using Structural Bioinformatics, Docking, and MD Preparation
 
-ONCO-GUARD is an independent educational project focused on KRAS G12C using structural bioinformatics, docking workflows, and molecular dynamics preparation. The goal is to build hands-on experience in computational drug discovery workflows and to explore how structural and physicochemical features may inform further study. This project is exploratory and does not claim experimental validation or therapeutic conclusions.
-
-This project was designed to build practical experience in structural bioinformatics, docking workflows, MD preparation, and reproducible analysis. I am seeking feedback from experts in structural bioinformatics and translational oncology to improve workflow and interpretation.
+ONCO-GUARD is a self-directed educational project focused on KRAS G12C, using structural bioinformatics, docking workflows, and molecular dynamics preparation to build practical experience in computational drug discovery. The project is intended as an exploratory learning exercise and a reproducible workflow for investigating a clinically relevant oncogenic target that is frequently mutated in non-small cell lung cancer. This work is exploratory and does not claim experimental validation or therapeutic conclusions. I would value feedback from experts in structural biology and computational chemistry on the methodology, interpretation, and possible next steps.
 
 **Project by:** Karanveer Singh
-**Affiliation:** Sri Guru Granth Sahib World University, 1st Year B.Tech Biotechnology
+**Affiliation:** Sri Guru Granth Sahib World University
 **GitHub:** Karanveersingh-labs
 
 ### What This Project Explores and Implements
