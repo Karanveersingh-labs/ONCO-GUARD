@@ -40,7 +40,8 @@ These pages document selected stages of the workflow, from target preparation th
 **Author:** Karanveer Singh
 **Institution:** Sri Guru Granth Sahib World University, Punjab (1st Year B.Tech Biotechnology)
 **Purpose:** Self-directed learning in structural bioinformatics - a learning portfolio and reproducibility exercise - 100% built on mobile phone in Khanna
+**License:**
+- Code in this repository is licensed under the MIT License.
+- Documentation is licensed under CC BY 4.0 unless otherwise noted (see LICENSE file).
 
-**License:** MIT License (Code). Documentation: CC BY 4.0 unless otherwise noted.
-
-**Disclaimer:** This is an independent exploratory learning project by Karanveer Singh. It is NOT an official Stanford University project, laboratory result, or professor-sponsored research. Not a drug discovery or clinical claim. No experimental validation - computational predictions only.
+This project is an independent exploratory learning project and is not affiliated with or endorsed by Stanford University or any professor or official research group.
