@@ -37,11 +37,9 @@ These pages document selected stages of the workflow, from target preparation th
 - Archived version: [10.5281/zenodo.22843776](https://doi.org/10.5281/zenodo.22843776)
 - Concept DOI: [10.5281/zenodo.22711779](https://doi.org/10.5281/zenodo.22711779)
 
-**Author:** Karanveer Singh
-**Institution:** Sri Guru Granth Sahib World University, Punjab (1st Year B.Tech Biotechnology)
-**Purpose:** Self-directed learning in structural bioinformatics - a learning portfolio and reproducibility exercise - 100% built on mobile phone in Khanna
-**License:**
-- Code in this repository is licensed under the MIT License.
-- Documentation is licensed under CC BY 4.0 unless otherwise noted (see LICENSE file).
 
-This project is an independent exploratory learning project and is not affiliated with or endorsed by Stanford University or any professor or official research group.
+**License:** MIT License
+
+**Author:** Karanveer Singh - Sri Guru Granth Sahib World University, 1st Year B.Tech
+
+**Disclaimer:** This project is a personal educational learning portfolio and does not constitute Stanford-affiliated research, official internship work, or professor-sponsored work. 100% built on mobile phone in Khanna.
