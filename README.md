@@ -1,25 +1,26 @@
 # ONCO-GUARD | Computational Exploration of KRAS G12C
 
-This repository documents a self-directed educational exploration of KRAS G12C using structural bioinformatics and computational biology workflows. The project focuses on learning reproducible methods for structure preparation, docking, molecular dynamics setup, and in silico ADMET screening. It is not a validated drug-discovery campaign, experimental assay, or clinical conclusion; all results should be interpreted as exploratory computational observations only.
+Onco-Guard is a self-directed educational project exploring KRAS G12C through structural bioinformatics and computational biology workflows. The goal is to build practical experience in structural preparation, docking workflows, molecular dynamics setup, and reproducible analysis. This work is exploratory and intended for learning and method development, it does not constitute experimental validation, therapeutic claims, or clinical conclusions.
 
-This project was undertaken to build competence in structural bioinformatics, docking workflows, MD preparation, and reproducible computational analysis.
+This project was designed to build practical experience in structural bioinformatics, docking workflows, MD preparation, and reproducible analysis. I am seeking feedback and mentorship to improve the rigor of the workflow and expand my understanding of computational cancer biology.
 
-**Author:** Karanveer Singh - Sri Guru Granth Sahib World University, 1st Year B.Tech Biotechnology
-**Lab:** Karanveersingh-labs
-**Status:** Active Learning Project
+**Project by:** Karanveer Singh
+**Affiliation:** Sri Guru Granth Sahib World University, 1st Year B.Tech Biotechnology
+**GitHub:** Karanveersingh-labs
+**Status:** Educational computational biology project
 
 ### What This Project Explores and Implements
 - Structural preparation of KRAS G12C structure from PDB ID 4OBE, Chain A (retrieved from RCSB PDB)
 - Exploratory molecular-docking workflow using AutoDock Vina
 - Molecular-dynamics system preparation using GROMACS
-- In silico ADMET properties estimated using SwissADME and pKCSM; prediction-based inferences only, not experimental measurements
+- In silico ADMET properties estimated using SwissADME and pKCSM; prediction-based inferences only
 - Reproducible documentation and workflow organization
 
 ### What Remains Uncertain
 - No experimental validation was performed
 - No experimental binding-affinity measurements were performed
 - Docking scores should not be interpreted as measured binding affinity
-- Molecular dynamics: System preparation completed; no validated production simulation or predictive conclusion is claimed
+- Molecular-dynamics: System preparation completed; no validated production simulation is claimed
 - No therapeutic or clinical conclusion is claimed
 
 ### Exploratory Scope
@@ -38,4 +39,4 @@ This project was undertaken to build competence in structural bioinformatics, do
 
 License: MIT License
 
-**Note:** This work is an educational portfolio and is not intended as a therapeutic or clinical conclusion. Findings should be interpreted as exploratory computational observations only. 100% built on mobile phone in Khanna.
+**Note:** 100% built on mobile phone in Khanna. Educational portfolio only.
