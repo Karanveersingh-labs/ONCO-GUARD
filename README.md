@@ -40,6 +40,6 @@ These pages document selected stages of the workflow, from target preparation th
 
 **License:** MIT License
 
-**Author:** Karanveer Singh - Sri Guru Granth Sahib World University, 1st Year B.Tech
+**Author:** Karanveer Singh - Sri Guru Granth Sahib World University, 1st Year B.Tech Biotechnology 
 
 **Disclaimer:** This project is a personal educational learning portfolio and does not constitute Stanford-affiliated research, official internship work, or professor-sponsored work. 100% built on mobile phone in Khanna.
