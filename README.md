@@ -8,7 +8,7 @@ This project focuses on improving technical competence in structural bioinformat
 - Structural preparation of the 4OBE KRAS G12C-related PDB structure (PDB ID 4OBE, Chain A - verified on RCSB PDB)
 - Exploratory molecular-docking workflow using AutoDock Vina
 - Molecular-dynamics system preparation using GROMACS
-- In silico ADMET properties estimated using SwissADME and pKCSM; these are prediction-based inferences, not experimental pharmacokinetic or toxicity measurements
+- In silico ADMET properties estimated using SwissADME and pKCSM; these are prediction-based inferences, not experimental measurements
 - Reproducible documentation and workflow organization
 
 ### What Remains Uncertain
@@ -26,11 +26,13 @@ This project focuses on improving technical competence in structural bioinformat
 ### Selected Workflow Visualizations
 These pages document selected stages of the workflow, from target preparation through exploratory dynamics analysis.
 
-[Target preparation](./phase19.html) | [Docking](./phase20.html) | [Dynamics](./phase21.html) | [Interaction](./phase22.html) | [Complex](./phase23.html)
+[Target preparation](https://karanveersingh-labs.github.io/ONCO-GUARD/phase19.html) | [Docking](https://karanveersingh-labs.github.io/ONCO-GUARD/phase20.html) | [Dynamics](https://karanveersingh-labs.github.io/ONCO-GUARD/phase21.html) | [Interaction](https://karanveersingh-labs.github.io/ONCO-GUARD/phase22.html) | [Complex](https://karanveersingh-labs.github.io/ONCO-GUARD/phase23.html)
+
+🌐 **Live Project Website:** https://karanveersingh-labs.github.io/ONCO-GUARD/
 
 ### Project Records
-- Archived version: 10.5281/zenodo.22843776
-- Concept DOI: 10.5281/zenodo.22711779
+- Archived version: [10.5281/zenodo.22843776](https://doi.org/10.5281/zenodo.22843776)
+- Concept DOI: [10.5281/zenodo.22711779](https://doi.org/10.5281/zenodo.22711779)
 
 License: MIT License
 
