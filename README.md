@@ -6,7 +6,7 @@ This project focuses on improving technical competence in structural bioinformat
 
 ## What This Project Explores and Implements
 
-- Structural preparation of the 4LUC KRAS G12C-related PDB structure
+- Structural preparation of the 4OBE KRAS G12C-related PDB structure (PDB ID 4OBE, Chain A - verified on RCSB PDB)
 - Exploratory molecular-docking workflow using AutoDock Vina
 - Molecular-dynamics system preparation using GROMACS
 - In silico ADMET properties estimated using SwissADME and pKCSM; these are prediction-based inferences, not experimental pharmacokinetic or toxicity measurements
