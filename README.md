@@ -1,23 +1,21 @@
 # ONCO-GUARD | Computational Exploration of KRAS G12C
 
-This project is an independent, self-directed computational biology learning exercise using KRAS G12C (PDB ID: 4OBE, Chain A) as a case study. The goal is to strengthen skills in structural bioinformatics, docking workflows, molecular dynamics preparation, and in silico ADMET assessment.
+Scope and limitations: This repository documents an exploratory, self-directed learning project in structural bioinformatics and computational biology, using KRAS G12C as a case study. The goal is to build familiarity with structural preparation, docking, and molecular dynamics workflows, and to document reproducible methods for educational and research-development purposes. No experimental validation, binding-affinity measurement, or clinical conclusion is claimed.
 
-**Author:** Karanveer Singh - Sri Guru Granth Sahib World University, 1st Year B.Tech Biotechnology
-**Lab:** Karanveersingh-labs
-**Status:** Active Learning Project
+This project focuses on improving technical competence in structural bioinformatics and reproducible workflow documentation, not on generating a drug-discovery or clinical claim.
 
 ### What This Project Explores and Implements
-- Structural preparation of the 4OBE KRAS G12C-related PDB structure (verified on RCSB PDB)
+- Structural preparation of the 4OBE KRAS G12C-related PDB structure (PDB ID 4OBE, Chain A - verified on RCSB PDB)
 - Exploratory molecular-docking workflow using AutoDock Vina
 - Molecular-dynamics system preparation using GROMACS
-- In silico ADMET properties estimated using SwissADME and pKCSM; these are prediction-based inferences, not experimental measurements
+- In silico ADMET properties estimated using SwissADME and pKCSM; these are prediction-based inferences, not experimental pharmacokinetic or toxicity measurements
 - Reproducible documentation and workflow organization
 
 ### What Remains Uncertain
 - No experimental validation was performed
 - No experimental binding-affinity measurements were performed
 - Docking scores should not be interpreted as measured binding affinity
-- Molecular dynamics: System preparation completed; no validated production simulation or predictive conclusion is claimed
+- Molecular-dynamics: System preparation completed; no validated production simulation or predictive conclusion is claimed
 - No therapeutic or clinical conclusion is claimed
 
 ### Exploratory Scope
@@ -28,12 +26,14 @@ This project is an independent, self-directed computational biology learning exe
 ### Selected Workflow Visualizations
 These pages document selected stages of the workflow, from target preparation through exploratory dynamics analysis.
 
-[Target preparation](link) | [Docking](link) | [Dynamics](link) | [Interaction](link) | [Complex](link)
+[Target preparation](./phase19.html) | [Docking](./phase20.html) | [Dynamics](./phase21.html) | [Interaction](./phase22.html) | [Complex](./phase23.html)
 
 ### Project Records
 - Archived version: 10.5281/zenodo.22843776
 - Concept DOI: 10.5281/zenodo.22711779
 
 License: MIT License
+
+Author: Karanveer Singh - Sri Guru Granth Sahib World University, 1st Year B.Tech Biotechnology
 
 **Note:** This work is an educational portfolio and is not intended as a therapeutic or clinical conclusion. Findings should be interpreted as exploratory computational observations only. 100% built on mobile phone in Khanna.
